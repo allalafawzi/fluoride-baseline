@@ -12,6 +12,10 @@ date-released: 2026-10-05
 license:
   - MIT
   - CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23159083
+    description: "Zenodo archive of this release (v1.0.0)"
 keywords:
   - fluoride
   - CrcB
