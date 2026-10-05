@@ -1,0 +1,24 @@
+# macOS and editor noise
+.DS_Store
+._*
+*.swp
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Large inputs that are NOT redistributed: see data/gtdb/README.md for where to
+# get the GTDB metadata, and GETTING_STARTED.md for the genomes and proteomes.
+data/gtdb/genomes/
+data/gtdb/proteomes/
+data/gtdb/*_metadata*.tsv.gz
+data/gtdb/log/*
+!data/gtdb/log/proteomes_predicted.tsv
+
+# Outputs of the power analysis, which are regenerated and not part of the
+# deposited record.
+results/power/
+
+# Self-test stamps
+.check_deposit.ok
+.firth_selftest.ok

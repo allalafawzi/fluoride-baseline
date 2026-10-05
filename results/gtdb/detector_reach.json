@@ -1,0 +1,204 @@
+{
+  "marker": "Fluc_CrcB",
+  "n_genomes": 1259,
+  "ga": 40.95,
+  "nc": 13.8,
+  "by_phylum": [
+    {
+      "phylum": "B1Sed10-29",
+      "n": 19,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 7.1,
+      "undetected_max": 10.9,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Korarchaeota",
+      "n": 13,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 8.7,
+      "undetected_max": 11.5,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Nanohalarchaeota",
+      "n": 11,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 7.3,
+      "undetected_max": 16.0,
+      "undetected_above_nc": 2
+    },
+    {
+      "phylum": "Hadarchaeota",
+      "n": 9,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 7.1,
+      "undetected_max": 12.8,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Undinarchaeota",
+      "n": 7,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 7.2,
+      "undetected_max": 8.4,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "SpSt-1190",
+      "n": 6,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 8.15,
+      "undetected_max": 11.4,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Huberarchaeota",
+      "n": 1,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 5.6,
+      "undetected_max": 5.6,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "JACRDV01",
+      "n": 1,
+      "k": 0,
+      "prevalence": 0.0,
+      "undetected_median": 6.7,
+      "undetected_max": 6.7,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Nanobdellota",
+      "n": 310,
+      "k": 3,
+      "prevalence": 0.00967741935483871,
+      "undetected_median": 7.9,
+      "undetected_max": 20.8,
+      "undetected_above_nc": 14
+    },
+    {
+      "phylum": "Micrarchaeota",
+      "n": 85,
+      "k": 1,
+      "prevalence": 0.011764705882352941,
+      "undetected_median": 7.800000000000001,
+      "undetected_max": 17.0,
+      "undetected_above_nc": 1
+    },
+    {
+      "phylum": "Aenigmatarchaeota",
+      "n": 77,
+      "k": 1,
+      "prevalence": 0.012987012987012988,
+      "undetected_median": 7.6,
+      "undetected_max": 16.4,
+      "undetected_above_nc": 4
+    },
+    {
+      "phylum": "Iainarchaeota",
+      "n": 53,
+      "k": 1,
+      "prevalence": 0.018867924528301886,
+      "undetected_median": 7.7,
+      "undetected_max": 13.7,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "EX4484-52",
+      "n": 18,
+      "k": 1,
+      "prevalence": 0.05555555555555555,
+      "undetected_median": 7.8,
+      "undetected_max": 12.1,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Thermoproteota",
+      "n": 238,
+      "k": 15,
+      "prevalence": 0.06302521008403361,
+      "undetected_median": 8.2,
+      "undetected_max": 17.4,
+      "undetected_above_nc": 8
+    },
+    {
+      "phylum": "Altiarchaeota",
+      "n": 14,
+      "k": 1,
+      "prevalence": 0.07142857142857142,
+      "undetected_median": 8.1,
+      "undetected_max": 17.1,
+      "undetected_above_nc": 1
+    },
+    {
+      "phylum": "Asgardarchaeota",
+      "n": 55,
+      "k": 7,
+      "prevalence": 0.12727272727272726,
+      "undetected_median": 9.149999999999999,
+      "undetected_max": 21.3,
+      "undetected_above_nc": 8
+    },
+    {
+      "phylum": "Hydrothermarchaeota",
+      "n": 20,
+      "k": 4,
+      "prevalence": 0.2,
+      "undetected_median": 7.949999999999999,
+      "undetected_max": 28.1,
+      "undetected_above_nc": 1
+    },
+    {
+      "phylum": "Thermoplasmatota",
+      "n": 157,
+      "k": 33,
+      "prevalence": 0.21019108280254778,
+      "undetected_median": 7.8,
+      "undetected_max": 19.2,
+      "undetected_above_nc": 5
+    },
+    {
+      "phylum": "Methanobacteriota_B",
+      "n": 14,
+      "k": 7,
+      "prevalence": 0.5,
+      "undetected_median": 9.9,
+      "undetected_max": 12.4,
+      "undetected_above_nc": 0
+    },
+    {
+      "phylum": "Halobacteriota",
+      "n": 132,
+      "k": 78,
+      "prevalence": 0.5909090909090909,
+      "undetected_median": 8.45,
+      "undetected_max": 16.4,
+      "undetected_above_nc": 1
+    },
+    {
+      "phylum": "Methanobacteriota",
+      "n": 19,
+      "k": 12,
+      "prevalence": 0.631578947368421,
+      "undetected_median": 8.0,
+      "undetected_max": 9.8,
+      "undetected_above_nc": 0
+    }
+  ],
+  "undetected_median": 8.0,
+  "undetected_max": 28.1,
+  "undetected_above_nc": 45,
+  "detected_min": 52.1,
+  "detected_median": 104.05,
+  "empty_band_bits": 24.0,
+  "caveat": "A divergent homolog can score at background level; the absence of intermediate scores rules out partial detection, not total blindness. The decisive test (leave-one-out on the five archaeal seed entries + rescan) needs the proteomes, which are not deposited."
+}

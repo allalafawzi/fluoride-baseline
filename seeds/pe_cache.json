@@ -1,0 +1,1286 @@
+{
+ "Q1JU72": {
+  "pe": "Evidence at protein level",
+  "reviewed": "reviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Burkholderia sp"
+ },
+ "A0A090MTS9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Afipia felis (Cat scratch disease bacillus)"
+ },
+ "A0A2C9D2S9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Hartmannibacter diazotrophicus"
+ },
+ "A0A2U8P2I7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Bradyrhizobium ottawaense"
+ },
+ "A0A2X4UW55": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Leminorella richardii"
+ },
+ "A0A399EKM1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Meiothermus luteus"
+ },
+ "A0A5M3WVU1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Acrocarpospora macrocephala"
+ },
+ "A0A7D5UVF8": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Metarhizium brunneum"
+ },
+ "A0A7W6C0B6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Aureimonas phyllosphaerae"
+ },
+ "A0A7W6D2G9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Hansschlegelia beijingensis"
+ },
+ "A0A7W9LL30": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Jiangella mangrovi"
+ },
+ "A0A840IKQ5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Amycolatopsis jiangsuensis"
+ },
+ "A0A919UBW0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Dactylosporangium siamense"
+ },
+ "A0A9W4DXM7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinacidiphila cocklensis"
+ },
+ "A0A9W6S3B8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Actinoallomurus iriomotensis"
+ },
+ "A0ABN6MNT1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Anaeromyxobacter oryzae"
+ },
+ "A0ABR0T3I6": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Cladobotryum mycophilum"
+ },
+ "A8LKE2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12)"
+ },
+ "A9BLX5": {
+  "pe": "Evidence at protein level",
+  "reviewed": "unreviewed",
+  "name": "Alpha/beta hydrolase fold",
+  "organism": "Delftia acidovorans (strain DSM 14801 / SPH-1)"
+ },
+ "A0A090GHB0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Mesorhizobium plurifarium"
+ },
+ "A0A0C4Y4A6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Cupriavidus basilensis"
+ },
+ "A0A0M0EBT1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Komagataeibacter europaeus (Gluconacetobacter europaeus)"
+ },
+ "A0A136WID5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Anaerotignum neopropionicum"
+ },
+ "A0A194UMB5": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Cytospora mali (Apple Valsa canker fungus) (Valsa mali)"
+ },
+ "A0A238K6I1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Maliponia aquimaris"
+ },
+ "A0A238LHW4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Flavimaricola marinus"
+ },
+ "A0A2R8B4C0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Albidovulum aquaemixtae"
+ },
+ "A0A2Z2NXP9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Granulosicoccus antarcticus IMCC3135"
+ },
+ "A0A446C2F0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Achromobacter agilis"
+ },
+ "A0A447V2H0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Cedecea lapagei"
+ },
+ "A0A511XCH1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Acetobacter nitrogenifigens DSM 23921 = NBRC 105050"
+ },
+ "A0A839UXC5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Endobacter medicaginis"
+ },
+ "A0A8J3ED96": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Caldovatus sediminis"
+ },
+ "A0A9P7AZH1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Hyphodiscus hymeniophilus"
+ },
+ "A0AA35RYJ2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Geodia barretti (Barrett's horny sponge)"
+ },
+ "A0AAE3VRB6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Amorphus orientalis"
+ },
+ "A0ABQ5WAA1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Devosia nitrariae"
+ },
+ "A0ABR6JCC3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Agrobacterium radiobacter"
+ },
+ "A0ABU0IS59": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Caulobacter ginsengisoli"
+ },
+ "A0ABU1V9K3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Hydrogenophaga laconesensis"
+ },
+ "A0A085GK91": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Putative hydrolase or acyltransferase (EC 3.8.1.3)",
+  "organism": "Ewingella americana (strain ATCC 33852 / DSM 4580 / CCUG 14506 / JCM 5911 / LMG 7869 / NCTC 12157 / CDC 1468-78)"
+ },
+ "A0A162S1E9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Clostridium magnum DSM 2767"
+ },
+ "A0A221WAW0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinoalloteichus hoggarensis"
+ },
+ "A0A238IWK5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Boseongicola aestuarii"
+ },
+ "A0A256G939": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Brucella pseudogrignonensis"
+ },
+ "A0A2R8BEV7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Ascidiaceihabitans donghaensis"
+ },
+ "A0A2R8CM78": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Kushneria phyllosphaerae"
+ },
+ "A0A2T4GUT1": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Fusarium culmorum"
+ },
+ "A0A388SFE7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Mesosutterella multiformis"
+ },
+ "A0A7K0BRA4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinomadura macrotermitis"
+ },
+ "A0A830GNL7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Haloarcula pellucida"
+ },
+ "A0A839SS41": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Limibacillus halophilus"
+ },
+ "A0A840BY72": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Chelatococcus caeni"
+ },
+ "A0A8J2VXG2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Agaricicola taiwanensis"
+ },
+ "A0A917DXL6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Croceicoccus mobilis"
+ },
+ "A0AAJ5K0M4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Deinococcus metallilatus"
+ },
+ "A0ABS4E313": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Heterorhizobium halophytocola"
+ },
+ "A0ABS5LY27": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Comamonas brasiliensis"
+ },
+ "A0ABU0FDV9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Labrys monachus"
+ },
+ "A0ABW8M9U7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Caballeronia udeis"
+ },
+ "A0A081FUD4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Marinobacterium lacunae"
+ },
+ "A0A0D1ECN7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Jannaschia aquimarina"
+ },
+ "A0A0M9VW89": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Escovopsis weberi"
+ },
+ "A0A402AKB3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Dictyobacter kobayashii"
+ },
+ "A0A563VQH5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Hyella patelloides LEGE 07179"
+ },
+ "A0A7D8YNN0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Lachnellula cervina"
+ },
+ "A0A7W4YLL3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Leifsonia aquatica (Corynebacterium aquaticum)"
+ },
+ "A0A7W6HEK6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Aurantimonas endophytica"
+ },
+ "A0A7W7CGD5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Crossiella cryophila"
+ },
+ "A0A7W7Q9G8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinophytocola algeriensis"
+ },
+ "A0A7W9X4G4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Massilia aurea"
+ },
+ "A0A7X0PKY0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Acidovorax soli"
+ },
+ "A0A7Y9J840": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinomycetospora corticicola"
+ },
+ "A0A846RWD2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Brevibacterium marinum"
+ },
+ "A0A8J3E3X1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Aliidongia dinghuensis"
+ },
+ "A0A917I3B4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Alsobacter metallidurans"
+ },
+ "A0A9W6J558": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Ancylobacter dichloromethanicus"
+ },
+ "A0ABQ1KET8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Marivita lacus"
+ },
+ "A0ABS4TZJ3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Kibdelosporangium banguiense"
+ },
+ "Q4C9B6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Crocosphaera watsonii WH 8501"
+ },
+ "W0V2E0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628"
+ },
+ "A0A0A1FD21": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Collimonas arenae"
+ },
+ "A0A0P1IU07": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Cognatishimia activa"
+ },
+ "A0A0X8HHC3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Halomonas chromatireducens"
+ },
+ "A0A157SBD9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Epoxide hydrolase (EC 3.8.1.3)",
+  "organism": "Bordetella ansorpii"
+ },
+ "A0A1Q8RCS3": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Colletotrichum chlorophyti"
+ },
+ "A0A238KTX7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actibacterium lipolyticum"
+ },
+ "A0A512IEQ7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Kocuria turfanensis"
+ },
+ "A0A7W5FJN8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Actinoplanes campanulatus"
+ },
+ "A0A7W9J7C6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Kribbella italica"
+ },
+ "A0A841BKQ6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Allocatelliglobosispora scoriae"
+ },
+ "A0A8H5PTL5": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Gibberella subglutinans (Fusarium subglutinans)"
+ },
+ "A0A918FE42": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Agromyces mediolanus (Corynebacterium mediolanum)"
+ },
+ "A0ABQ3UVQ7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Ktedonobacter robiniae"
+ },
+ "A0ABS4SSY3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Azospirillum rugosum"
+ },
+ "A0ABU1JNX0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Inquilinus ginsengisoli"
+ },
+ "A0ABU2ATJ8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Glycomyces lechevalierae"
+ },
+ "A1K1F9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Azoarcus sp. (strain BH72)"
+ },
+ "A4G378": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Herminiimonas arsenicoxydans"
+ },
+ "W4MAH7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Candidatus Entotheonella gemina"
+ },
+ "Q6NAM1": {
+  "pe": "Evidence at protein level",
+  "reviewed": "reviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)"
+ },
+ "Q01398": {
+  "pe": "Evidence at protein level",
+  "reviewed": "reviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Moraxella sp. (strain B)"
+ },
+ "A0A0P1E0I6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Ruegeria atlantica"
+ },
+ "A0A0P1G6R0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Thalassovita autumnalis"
+ },
+ "A0A1B0ZN10": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Phaeobacter gallaeciensis"
+ },
+ "A0A1P8V004": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Salipiger abyssi"
+ },
+ "A0A1Y5RAD9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Pseudoruegeria aquimaris"
+ },
+ "A0A221JZ83": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Pseudosulfitobacter pseudonitzschiae"
+ },
+ "A0A239SJE3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pandoraea sputorum"
+ },
+ "A0A2R8AXH2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Pseudoprimorskyibacter insulae"
+ },
+ "A0A2S3VXQ7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Novacetimonas maltaceti"
+ },
+ "A0A6H2H580": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Polaromonas vacuolata"
+ },
+ "A0A840A9D9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Roseococcus suduntuyensis"
+ },
+ "A0A840Y0Q4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Neoroseomonas alkaliterrae"
+ },
+ "A0A841C6C4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Saccharothrix tamanrassetensis"
+ },
+ "A0A8J3M9R8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Seohaeicola zhoushanensis"
+ },
+ "A0A8S8X7F1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Roseiterribacter gracilis"
+ },
+ "A0A917A409": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Primorskyibacter flagellatus"
+ },
+ "A0A921NRP7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Profundibacterium mesophilum KAUST100406-0324"
+ },
+ "A0AAE3HMF3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Methylohalomonas lacus"
+ },
+ "A0ABT3HCQ9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Rhodobium gokarnense"
+ },
+ "A0ABV2H3J2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pseudorhizobium tarimense"
+ },
+ "A0ABX2Y1P5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Oerskovia enterophila"
+ },
+ "A0A0C6FP29": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Methylobacterium aquaticum"
+ },
+ "A0A1N7RQ18": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Paraburkholderia ribeironis"
+ },
+ "A0A6F8XV06": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Phytohabitans flavus"
+ },
+ "A0A6S6QJH9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Terrihabitans soli"
+ },
+ "A0A7W7F531": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Sphingosinicella soli"
+ },
+ "A0A7W7G3Q6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Paractinoplanes abujensis"
+ },
+ "A0A7W7SWA9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Micromonospora polyrhachis"
+ },
+ "A0A7X5ZR73": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Saccharomonospora amisosensis"
+ },
+ "A0A840NY55": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Thermocatellispora tengchongensis"
+ },
+ "A0A8J3VQC9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Rugosimonospora africana"
+ },
+ "A0A927M7N3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Plantactinospora soyae"
+ },
+ "A0A9W6JUK6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Methylopila turkensis"
+ },
+ "A0AAD2AMP4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Ralstonia wenshanensis"
+ },
+ "A0ABR6GXK9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Roseateles terrae"
+ },
+ "M9RAT1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase DehH (EC 3.8.1.3)",
+  "organism": "Octadecabacter antarcticus 307"
+ },
+ "A0A060ZW91": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Streptomyces iranensis"
+ },
+ "A0A098EGY6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Planococcus massiliensis"
+ },
+ "A0A0E3ZN82": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Hydrolases or acyltransferases (Alpha/beta hydrolase superfamily) (EC 3.8.1.3)",
+  "organism": "Polynucleobacter duraquae"
+ },
+ "A0A0H1R951": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Microvirga vignae"
+ },
+ "A0A0L6CVI8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Roseovarius tolerans"
+ },
+ "A0A1L9P1Q7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Planktotalea frisia"
+ },
+ "A0A3P4B1T8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pigmentiphaga humi"
+ },
+ "A0A447CYM1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Rhodoplanes serenus"
+ },
+ "A0A512N2P1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Reyranella soli"
+ },
+ "A0A7W6WB34": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Roseospira visakhapatnamensis"
+ },
+ "A0AAE3KEX6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Natronocella acetinitrilica"
+ },
+ "A0ABU0GW03": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Planomicrobium stackebrandtii"
+ },
+ "A4FDK1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Probable epoxide alpha/beta hydrolase (EC 3.8.1.3)",
+  "organism": "Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)"
+ },
+ "A9WPL6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Renibacterium salmoninarum (strain ATCC 33209 / DSM 20767 / JCM 11484 / NBRC 15589 / NCIMB 2235)"
+ },
+ "D4E6T6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Hydrolase, alpha/beta domain protein (EC 3.8.1.3)",
+  "organism": "Serratia odorifera DSM 4582"
+ },
+ "I4EVN9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Modestobacter italicus (strain DSM 44449 / CECT 9708 / BC 501)"
+ },
+ "A0A0M6Y5V6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Roseibium aggregatum"
+ },
+ "A0A0M9GCW1": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Putative hydrolase or acyltransferase of alpha/beta superfamily (EC 3.8.1.3)",
+  "organism": "Pseudomonas asplenii"
+ },
+ "A0A1D7TJ49": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Alpha/beta hydrolase family protein (EC 3.8.1.3)",
+  "organism": "Sulfurospirillum halorespirans DSM 13726"
+ },
+ "A0A1Y2MMP9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pseudonocardia autotrophica (Amycolata autotrophica) (Nocardia autotrophica)"
+ },
+ "A0A238JYT5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pelagimonas varians"
+ },
+ "A0A4V0ZJQ9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Streptomonospora litoralis"
+ },
+ "A0A512DSZ2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Skermanella aerolata"
+ },
+ "A0A5S9NGE4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Starkeya nomas"
+ },
+ "A0A640VLT4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Roseobacter cerasinus"
+ },
+ "A0A7M4DRQ9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Occultella aeris"
+ },
+ "A0A7W7D6N7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Sphaerisporangium siamense"
+ },
+ "A0A7W8QI22": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Nocardiopsis composta"
+ },
+ "A0A839U7P5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Phyllobacterium trifolii"
+ },
+ "A0A841HK34": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Povalibacter uvarum"
+ },
+ "A0A841LYP7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Paenochrobactrum gallinarii"
+ },
+ "A0A8J3UND5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Planotetraspora silvatica"
+ },
+ "A0A918XRU7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Thalassobaculum fulvum"
+ },
+ "A0AA38RWA0": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Pleurostoma richardsiae"
+ },
+ "A0ABT6M7H2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Prescottella agglutinans"
+ },
+ "A0ABU1T824": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Mucilaginibacter pocheonensis"
+ },
+ "A0ABU2CRE2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Promicromonospora iranensis"
+ },
+ "A0ABX8ENA0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Nocardioides aquaticus"
+ },
+ "D5RIM3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Hydrolase, alpha/beta domain protein (EC 3.8.1.3)",
+  "organism": "Pseudoroseomonas cervicalis ATCC 49957"
+ },
+ "K9XSQ9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)"
+ },
+ "X7F893": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Roseivivax isoporae LMG 25204"
+ },
+ "A0A0D2MVA4": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Alpha/beta hydrolase fold protein (EC 3.8.1.3)",
+  "organism": "Monoraphidium neglectum"
+ },
+ "A0A0K8P249": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Piscinibacter sakaiensis (Ideonella sakaiensis)"
+ },
+ "A0A231HAA3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Nocardia cerradoensis"
+ },
+ "A0A7W0HSD8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Nonomuraea soli"
+ },
+ "A0A7W5JYE4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Microlunatus antarcticus"
+ },
+ "A0A7W6CBM0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Rhizobium skierniewicense"
+ },
+ "A0A7W7RUB2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Streptosporangium album"
+ },
+ "A0A839ZXS5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Phenylobacterium haematophilum"
+ },
+ "A0A840Y427": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Muricoccus pecuniae"
+ },
+ "A0A840ZPI9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Methylorubrum rhodinum"
+ },
+ "A0A841FNQ5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Phytomonospora endophytica"
+ },
+ "A0A853CHQ5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Petropleomorpha daqingensis"
+ },
+ "A0A8B6MCI7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Methylocella tundrae"
+ },
+ "A0AAN0VJK7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase DehH (EC 3.8.1.3)",
+  "organism": "Planktomarina temperata RCA23"
+ },
+ "A0ABT9TP07": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Paenarthrobacter nicotinovorans (Arthrobacter nicotinovorans)"
+ },
+ "A0ABU1IDF9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Paracidovorax wautersii"
+ },
+ "A0ABU1Z8Q9": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Pelomonas aquatica"
+ },
+ "A0ABU1ZMF7": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Rhodoferax saidenbachensis"
+ },
+ "A0QTW0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis)"
+ },
+ "D5BQ63": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Putative hydrolase or acyltransferase (EC 3.8.1.3)",
+  "organism": "Puniceispirillum marinum (strain IMCC1322)"
+ },
+ "U2EKU6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase protein (EC 3.8.1.3)",
+  "organism": "Salinisphaera shabanensis E1L3A"
+ },
+ "A0A0S3PPM6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Variibacter gotjawalensis"
+ },
+ "A0A0L0NI50": {
+  "pe": "Inferred from homology",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Tolypocladium ophioglossoides (strain CBS 100239) (Snaketongue truffleclub) (Elaphocordyceps ophioglossoides)"
+ },
+ "A0AAN1XXH3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Vulcanimicrobium alpinum"
+ },
+ "A0AAP9NNH0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Vreelandella titanicae"
+ },
+ "A0A0P1GVT8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Tritonibacter multivorans"
+ },
+ "A0A8J3ZCL3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Virgisporangium aurantiacum"
+ },
+ "Q3M9T2": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Hydrolase (EC 3.8.1.3)",
+  "organism": "Trichormus variabilis (strain ATCC 29413 / PCC 7937) (Anabaena variabilis)"
+ },
+ "A0A1Y0EHC4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Yoonia vestfoldensis"
+ },
+ "A0A917ZTH6": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Wenjunlia tyrosinilytica"
+ },
+ "A0A9W6CSU4": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Xanthobacter flavus"
+ },
+ "A0ABT9T3X8": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "[Curtobacterium] plantarum"
+ },
+ "A0A0H2M2C5": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Haloacetate dehalogenase H-1 (EC 3.8.1.3)",
+  "organism": "Variovorax paradoxus"
+ },
+ "A0A395NZT0": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase",
+  "organism": "Trichoderma arundinaceum"
+ },
+ "A0A6M4GYL3": {
+  "pe": "Predicted",
+  "reviewed": "unreviewed",
+  "name": "Fluoroacetate dehalogenase (EC 3.8.1.3)",
+  "organism": "Usitatibacter rugosus"
+ }
+}

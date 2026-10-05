@@ -1,0 +1,115 @@
+{
+  "model": "Fluc_CrcB",
+  "n_positives": 30,
+  "n_negatives_tested": 4593,
+  "n_negatives_scored": 2380,
+  "negatives_by_source": {
+    "SwissProt": {
+      "n": 2380,
+      "max": 13.8,
+      "median": -1.2,
+      "top10": [
+        [
+          13.8,
+          "sp|P0A9R2|ESSD_ECOLI"
+        ],
+        [
+          11.5,
+          "sp|Q47153|LFHA_ECOLI"
+        ],
+        [
+          11.4,
+          "sp|P77789|YDES_ECOLI"
+        ],
+        [
+          11.3,
+          "sp|P77237|ESSQ_ECOLI"
+        ],
+        [
+          9.8,
+          "sp|P64585|YQJE_ECOLI"
+        ],
+        [
+          8.1,
+          "sp|P39196|LPLT_ECOLI"
+        ],
+        [
+          8.0,
+          "sp|P02929|TONB_ECOLI"
+        ],
+        [
+          7.6,
+          "sp|P0AAM1|CYBH_ECOLI"
+        ],
+        [
+          7.3,
+          "sp|P46119|YBJC_ECOLI"
+        ],
+        [
+          7.0,
+          "sp|O60159|YHYB_SCHPO"
+        ]
+      ]
+    }
+  },
+  "constraining_negatives": "manually reviewed (prefix) only",
+  "threshold_window": [
+    13.8,
+    68.1
+  ],
+  "loo_scores": {
+    "sp|Q1GRB2|FLUC_SPHAL": 117.1,
+    "sp|A4W811|FLUC_ENT38": 126.1,
+    "sp|Q16AB5|FLUC_ROSDO": 116.5,
+    "sp|A9WHY7|FLUC_CHLAA": 125.5,
+    "sp|Q8TW26|FLUC_METKA": 111.5,
+    "sp|Q38ZE4|FLUC2_LATSS": 89.4,
+    "sp|Q11HT1|FLUC_CHESB": 127.4,
+    "sp|A0K5C2|FLUC_BURCH": 119.5,
+    "sp|Q0C3G9|FLUC_HYPNA": 123.4,
+    "sp|Q8ZDB1|FLUC3_YERPE": 94.9,
+    "sp|Q8EZS4|FLUC_LEPIN": 134.1,
+    "sp|Q3A5X3|FLUC_SYNC1": 120.8,
+    "sp|Q46F67|FLUC1_METBF": 98.5,
+    "sp|C6BTV9|FLUC_MARSD": 121.5,
+    "sp|A6UPS4|FLUC_METVS": 119.2,
+    "sp|Q89Z03|FLUC_BACTN": 130.9,
+    "sp|Q8VM97|FLUC_CUPNH": 116.6,
+    "sp|P46491|FLUC_HAEIN": 114.0,
+    "sp|Q8G5C2|FLUC3_BIFLO": 102.2,
+    "sp|Q1GJZ3|FLUC_RUEST": 116.5,
+    "sp|Q7VYU0|FLUC_BORPE": 123.0,
+    "sp|P61785|FLUC_THET2": 117.3,
+    "sp|A0RPI7|FLUC_CAMFF": 118.3,
+    "sp|O59171|FLUC_PYRHO": 119.0,
+    "sp|A4STL2|FLUC_AERS4": 125.4,
+    "sp|B4R910|FLUC_PHEZH": 121.0,
+    "sp|Q1WS51|FLUC2_LIGS1": 68.1,
+    "sp|Q7MRQ2|FLUC_WOLSU": 118.6,
+    "sp|A1B057|FLUC_PARDP": 122.0,
+    "sp|A9A506|FLUC_NITMS": 90.3
+  },
+  "loo_min": 68.1,
+  "negative_max": 13.8,
+  "gathering_threshold": 40.949999999999996,
+  "rule": "midpoint",
+  "loo_mode": "realign",
+  "loo_mode_requested": "realign",
+  "margin_factor": 0.9,
+  "separation": "OK",
+  "loo_sensitivity_at_GA": 1.0,
+  "negative_filter": {
+    "confirmed_prefix": "sp|",
+    "confirmed_pattern": null,
+    "criterion": "manually reviewed (prefix) only",
+    "n_confirmed": 3097,
+    "fraction_kept": 1.0,
+    "n_scored_at_E1e9": 3097,
+    "reporting_cutoff": "-E 1e9 (provenance pass)",
+    "note": "n_scored_at_E1e9 counts sequences reported at -E 1e9; n_negatives_scored counts them at -E 1000, the cutoff build_hmm.py uses. The two differ only by sequences whose E-value falls between the two cutoffs -- all far below any threshold, so neither negative_max nor GA depends on the choice."
+  },
+  "unfiltered_negative_max": 13.8,
+  "n_negatives_above_GA": 0,
+  "n_negatives_above_GA_reviewed": 0,
+  "separation_scope": "no negative of any status scores above GA"
+}

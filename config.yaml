@@ -1,0 +1,19 @@
+# ---- genome sets ----
+tier_a_accessions: "data/geba_accessions.txt"   # Supp. Table 1 of Mukherjee et al. 2017
+gtdb_release: "226"
+
+# ---- thresholds ----
+# GA margin: 1.0 puts the threshold at the lowest leave-one-out score, which is
+# very strict and under-detects. Set it from the sweep that sensitivity_audit.py
+# produces, not from the default here. See results/*.sensitivity.tsv
+ga_margin: 0.70
+
+riboswitch_evalue: 0.01
+min_orf_6frame: 60
+# Minimum number of genomes per phylum for the mean-by-clade estimator.
+# 10 is the value behind the published result (15.645 % over 16 phyla). A value
+# of 3 gives 13.175 % over 19 phyla: the pipeline runs correctly either way, but
+# only one of the two reproduces the paper. Sensitivity to this choice is swept
+# from 1 to 30 by scripts/clade_cut_sweep.py and published in full.
+min_clade_n: 10
+cpu: 8

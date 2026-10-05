@@ -1,0 +1,167 @@
+{
+  "model": "CLC_F",
+  "n_positives": 22,
+  "n_negatives_tested": 4900,
+  "n_negatives_scored": 2751,
+  "negatives_by_source": {
+    "TrEMBL": {
+      "n": 310,
+      "max": 605.5,
+      "median": 130.8,
+      "top10": [
+        [
+          605.5,
+          "tr|D8IWE6|D8IWE6_HERSS"
+        ],
+        [
+          575.6,
+          "tr|G0AEB2|G0AEB2_COLFT"
+        ],
+        [
+          524.8,
+          "tr|U5MTF6|U5MTF6_CLOSA"
+        ],
+        [
+          504.1,
+          "tr|K8EDZ3|K8EDZ3_CARML"
+        ],
+        [
+          475.9,
+          "tr|A0A2P2DAP4|A0A2P2DAP4_9LEPT"
+        ],
+        [
+          459.1,
+          "tr|A0ABP1WJ65|A0ABP1WJ65_9FIRM"
+        ],
+        [
+          420.6,
+          "tr|A0ABN6NWF1|A0ABN6NWF1_9ENTE"
+        ],
+        [
+          405.8,
+          "tr|A0AAN4UD33|A0AAN4UD33_9ENTE"
+        ],
+        [
+          357.6,
+          "tr|A0A0H3J7N4|A0A0H3J7N4_CLOPA"
+        ],
+        [
+          305.4,
+          "tr|A0ABM7YVV2|A0ABM7YVV2_NOSCO"
+        ]
+      ]
+    },
+    "SwissProt": {
+      "n": 2441,
+      "max": 523.2,
+      "median": -2.4,
+      "top10": [
+        [
+          523.2,
+          "sp|Q4VFY6|SYCA_RHITR"
+        ],
+        [
+          206.3,
+          "sp|Q57753|Y305_METJA"
+        ],
+        [
+          160.4,
+          "sp|Q8D6J0|CLCA_VIBVU"
+        ],
+        [
+          160.4,
+          "sp|Q7MDF0|CLCA_VIBVY"
+        ],
+        [
+          155.7,
+          "sp|A7N6K9|CLCA_VIBC1"
+        ],
+        [
+          155.3,
+          "sp|Q87GZ9|CLCA_VIBPA"
+        ],
+        [
+          154.8,
+          "sp|Q9KM62|CLCA_VIBCH"
+        ],
+        [
+          154.8,
+          "sp|C3LVE3|CLCA_VIBCM"
+        ],
+        [
+          154.7,
+          "sp|Q8XTT4|CLCL_RALN1"
+        ],
+        [
+          154.2,
+          "sp|A5F0D5|CLCA_VIBC3"
+        ]
+      ]
+    }
+  },
+  "constraining_negatives": "manually reviewed (prefix) AND established function name (pattern)",
+  "threshold_window": [
+    160.4,
+    173.9
+  ],
+  "loo_scores": {
+    "tr|A0A6N4X0Y2|A0A6N4X0Y2_9FLAO": 536.4,
+    "tr|A0ABY5NX85|A0ABY5NX85_9ENTE": 360.0,
+    "tr|A0A6V8LZ42|A0A6V8LZ42_9BACT": 173.9,
+    "tr|A0A369QFZ6|A0A369QFZ6_9BACT": 492.2,
+    "tr|A0ABQ2PCE4|A0ABQ2PCE4_9NEIS": 537.2,
+    "tr|A0A916K8S1|A0A916K8S1_9BACL": 527.8,
+    "tr|A0A6N8I2N7|A0A6N8I2N7_9FIRM": 450.5,
+    "sp|Q87WD2|ERIC_PSESM": 578.9,
+    "tr|A0ABZ3FCS2|A0ABZ3FCS2_9FIRM": 491.0,
+    "tr|A0A916J0H1|A0A916J0H1_9BURK": 563.9,
+    "tr|A0A2S2DRB4|A0A2S2DRB4_9BACT": 336.6,
+    "tr|A0ABZ3J069|A0ABZ3J069_SPOA4": 327.7,
+    "tr|A0A6J5G5K3|A0A6J5G5K3_9BURK": 578.4,
+    "tr|A0A0X1U816|A0A0X1U816_ANAPI": 473.8,
+    "tr|A0AAQ2UB20|A0AAQ2UB20_9FIRM": 473.2,
+    "tr|A0ABX2D5P8|A0ABX2D5P8_9CYAN": 186.7,
+    "tr|A0ABQ3HER8|A0ABQ3HER8_9NEIS": 593.9,
+    "tr|A0A3P5Y7M1|A0A3P5Y7M1_STRCB": 359.7,
+    "tr|A0ABY6VA78|A0ABY6VA78_9ENTR": 565.4,
+    "tr|A0A5E4RIR5|A0A5E4RIR5_9BURK": 575.3,
+    "tr|A0A4Y3M3S6|A0A4Y3M3S6_9PROT": 467.0,
+    "tr|A0A564SXH6|A0A564SXH6_9FIRM": 406.2
+  },
+  "loo_min": 173.9,
+  "negative_max": 160.4,
+  "gathering_threshold": 167.15,
+  "rule": "midpoint",
+  "loo_mode": "realign",
+  "loo_mode_requested": "realign",
+  "margin_factor": 0.9,
+  "separation": "OK",
+  "loo_sensitivity_at_GA": 1.0,
+  "negative_filter": {
+    "confirmed_prefix": "sp|",
+    "confirmed_pattern": "H\\(\\+\\)/Cl\\(-\\) exchange transporter|Chloride channel protein ClcB|putative ion channel protein YfeO|Chloride channel protein EriC",
+    "criterion": "manually reviewed (prefix) AND established function name (pattern)",
+    "n_confirmed": 85,
+    "fraction_kept": 0.025366,
+    "n_scored_at_E1e9": 3351,
+    "reporting_cutoff": "-E 1e9 (provenance pass)",
+    "note": "n_scored_at_E1e9 counts sequences reported at -E 1e9; n_negatives_scored counts them at -E 1000, the cutoff build_hmm.py uses. The two differ only by sequences whose E-value falls between the two cutoffs -- all far below any threshold, so neither negative_max nor GA depends on the choice.",
+    "n_confirmed_source": "counted from seeds/negatives_clc.faa by applying confirmed_prefix and confirmed_pattern to the headers"
+  },
+  "unfiltered_negative_max": 605.5,
+  "n_negatives_above_GA": 39,
+  "n_negatives_above_GA_reviewed": 2,
+  "separation_scope": "separation is against the CONFIRMED negatives only",
+  "reviewed_negatives_above_GA": [
+    {
+      "accession": "sp|Q4VFY6|SYCA_RHITR",
+      "score": 523.2,
+      "description": "Symbiosis-assisting ClC homolog OS=Rhizobium tropici OX=398 GN=sycA PE=3 SV=1"
+    },
+    {
+      "accession": "sp|Q57753|Y305_METJA",
+      "score": 206.3,
+      "description": "Uncharacterized protein MJ0305 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0305 PE=3 SV=1"
+    }
+  ]
+}

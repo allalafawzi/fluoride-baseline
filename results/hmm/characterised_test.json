@@ -1,0 +1,141 @@
+{
+  "hmm": "results/hmm/FAcD.hmm",
+  "gathering_threshold": 227.15,
+  "n_held_out": 7,
+  "n_correct": 7,
+  "n_untested": 0,
+  "entries": [
+    {
+      "accession": "Q6NAM1",
+      "name": "RPA1163",
+      "organism": "Rhodopseudomonas palustris CGA009",
+      "expected": "positive",
+      "score": 414.5,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": false,
+      "evidence": "Chan et al. 2010 Biochemistry 49:9538; PDB 5K3C. UniProt PE 1."
+    },
+    {
+      "accession": "Q1JU72",
+      "name": "FAc-DEX FA1",
+      "organism": "Burkholderia sp. FA1",
+      "expected": "positive",
+      "score": 393.3,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": false,
+      "evidence": "Kurihara et al. 2003 J Biochem 133:465; Jitsumori et al. 2009 J Bacteriol 191:2630. UniProt PE 1."
+    },
+    {
+      "accession": "Q01398",
+      "name": "DehH1 (H-1)",
+      "organism": "Moraxella sp. B",
+      "expected": "positive",
+      "score": 410.2,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": false,
+      "evidence": "Kawasaki et al. 1992 Biosci Biotechnol Biochem 56:1642. UniProt PE 1."
+    },
+    {
+      "accession": "Q479B8",
+      "name": "Daro3835",
+      "organism": "Dechloromonas aromatica RCB",
+      "expected": "positive",
+      "score": 395.4,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Khusnutdinova et al. 2023 FEBS J, doi 10.1111/febs.16903; PDB 8SDC / 8SDD. UniProt PE 1 -- and annotated ONLY as \"Alpha/beta hydrolase fold protein\", with NO EC number."
+    },
+    {
+      "accession": "Q01399",
+      "name": "DehH2 (H-2)",
+      "organism": "Moraxella sp. B",
+      "expected": "negative",
+      "score": -2.8,
+      "called": "negative",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Kawasaki et al. 1992. UniProt carries EC 3.8.1.3, but the entry itself states the enzyme acts on chloro-, bromo- and iodoacetate, NOT on fluoroacetate. HAD superfamily (PF00702), not alpha/beta hydrolase."
+    },
+    {
+      "accession": "A0ACD6B9A3",
+      "name": "Alr0039 (NOS0089)",
+      "organism": "Nostoc sp. PCC 7120",
+      "expected": "candidate",
+      "score": 460.9,
+      "called": "positive",
+      "correct": null,
+      "tested": true,
+      "held_out": true,
+      "evidence": "PDB 3QYJ (Petit, Kagan, Yakunin & Savchenko), deposited as \"putative alpha/beta hydrolase\", primary citation \"to be published\". UniProt PE 4, NO EC number, name \"Alr0039 protein\". The structure exists; NO assay on fluoroacetate is documented in a public source we could verify. Listed as a candidate, NOT as a characterised positive -- promote it only against a paper that reports the measured activity."
+    },
+    {
+      "accession": "A0A4Z0BVY8",
+      "name": "LGL-1",
+      "organism": "(voir Ji et al. 2026)",
+      "expected": "positive",
+      "score": 417.1,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Ji et al. 2026, Chem Sci 17:13816, doi 10.1039/d6sc02671k. Reclassified defluorinase; 2.7-fold greater defluorination activity than Q6NAM1. Public annotation before the assay: GO:0047372, monoacylglycerol lipase activity."
+    },
+    {
+      "accession": "A0A4V6IMR0",
+      "name": "LGL-2",
+      "organism": "(voir Ji et al. 2026)",
+      "expected": "positive",
+      "score": 403.9,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase, assayed on 2-fluoro-2-phenylacetate."
+    },
+    {
+      "accession": "A0ABF7PGA4",
+      "name": "LGL-3",
+      "organism": "(voir Ji et al. 2026)",
+      "expected": "positive",
+      "score": 417.1,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Had NO GO annotation at all before the assay."
+    },
+    {
+      "accession": "A0A840N899",
+      "name": "LGL-4",
+      "organism": "(voir Ji et al. 2026)",
+      "expected": "positive",
+      "score": 409.3,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Public annotation before the assay: GO:0016787, generic hydrolase activity."
+    },
+    {
+      "accession": "K8NY92",
+      "name": "LGL-5",
+      "organism": "(voir Ji et al. 2026)",
+      "expected": "positive",
+      "score": 412.7,
+      "called": "positive",
+      "correct": true,
+      "tested": true,
+      "held_out": true,
+      "evidence": "Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Public annotation before the assay: GO:0016787, generic hydrolase activity."
+    }
+  ]
+}

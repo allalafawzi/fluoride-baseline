@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the archive and the associated article."
+title: "Fluoride-baseline: detectors, sampling plans and controls for the Fluc/CrcB fluoride channel census across archaeal genomes"
+abstract: >-
+  Three calibrated equivalog profile HMMs (Fluc/CrcB, CLC-F, FAcD), their
+  calibration records, phylogenetically balanced sampling plans over GTDB r226,
+  census tables, and a self-testing control suite supporting the manuscript on
+  the detection of the Fluc/CrcB fluoride channel across 1,259 archaeal genomes.
+type: dataset
+version: "1.0.0"
+date-released: 2026-10-05
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - fluoride
+  - CrcB
+  - Fluc
+  - CLC-F
+  - fluoroacetate dehalogenase
+  - archaea
+  - GTDB
+  - profile hidden Markov model
+  - phylogenetic sampling
+  - PFAS biodegradation
+authors:
+  - family-names: Allala
+    given-names: Fawzi
+  - family-names: Hernández
+    given-names: Ernesto J.
+  - family-names: Bouanane-Darenfed
+    given-names: Amel
+preferred-citation:
+  type: article
+  title: "Detection of the Fluc/CrcB fluoride channel across a panel of 1,259 archaeal genomes: effects of the sampling plan, genome size, and annotation"
+  year: 2026
+  journal: "Applied and Environmental Microbiology"
+  authors:
+    - family-names: Allala
+      given-names: Fawzi
+    - family-names: Hernández
+      given-names: Ernesto J.
+    - family-names: Bouanane-Darenfed
+      given-names: Amel

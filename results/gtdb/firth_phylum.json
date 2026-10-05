@@ -1,0 +1,57 @@
+{
+ "method": "Firth penalised logistic regression (Jeffreys prior), penalised likelihood-ratio test",
+ "implementation": "scripts/firth_phylum.py, Newton-Raphson with step halving",
+ "marker": "Fluc_CrcB",
+ "N": 1259,
+ "k": 164,
+ "min_n_phylum": 10,
+ "reference_level": "Nanobdellota",
+ "n_levels": 17,
+ "levels_absorbed_into_other": [
+  "Hadarchaeota",
+  "Huberarchaeota",
+  "JACRDV01",
+  "SpSt-1190",
+  "Undinarchaeota"
+ ],
+ "levels_with_zero_positives": [
+  "B1Sed10-29",
+  "Korarchaeota",
+  "Nanohalarchaeota",
+  "other"
+ ],
+ "phylum_after_size": {
+  "lrt_stat": 139.11445035645636,
+  "df": 16,
+  "p_value": 1.0738926630932353e-21
+ },
+ "size_after_phylum": {
+  "lrt_stat": 43.773945976133064,
+  "df": 1,
+  "p_value": 3.685791404510201e-11
+ },
+ "slope_log10_size": 4.687881813659117,
+ "odds_ratio_per_decade_size": 108.62285251296845,
+ "penalised_loglik_full": -291.90251203621585,
+ "penalised_loglik_size_only": -361.45973721444403,
+ "coefficients": {
+  "intercept": -32.81697623577773,
+  "log10_size": 4.687881813659117,
+  "phylum=Aenigmatarchaeota": 1.1094722996683497,
+  "phylum=Altiarchaeota": 1.458833759228477,
+  "phylum=Asgardarchaeota": 0.6496338252356715,
+  "phylum=B1Sed10-29": 1.3713175146916645,
+  "phylum=EX4484-52": 2.083873984712025,
+  "phylum=Halobacteriota": 3.3855977945753315,
+  "phylum=Hydrothermarchaeota": 2.5756395759472097,
+  "phylum=Iainarchaeota": 1.0383008569200376,
+  "phylum=Korarchaeota": 0.35522422851652835,
+  "phylum=Methanobacteriota": 4.077686288035503,
+  "phylum=Methanobacteriota_B": 3.500448614298648,
+  "phylum=Micrarchaeota": 0.540602476363166,
+  "phylum=Nanohalarchaeota": 1.715301569296856,
+  "phylum=Thermoplasmatota": 1.979879406082959,
+  "phylum=Thermoproteota": 0.9994568856845263,
+  "phylum=other": 0.8156429753228638
+ }
+}

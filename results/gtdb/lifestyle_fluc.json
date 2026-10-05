@@ -1,0 +1,206 @@
+{
+ "marker": "Fluc_CrcB",
+ "N_total": 1259,
+ "assignment": "taxonomic proxy, hand-curated; see module docstring",
+ "caveat": "lifestyle is confounded with clade by construction; no p-value is computed and none should be",
+ "class_map": {
+  "Halobacteria": "halophile",
+  "Nanosalinia": "halophile",
+  "Thermococci": "thermophile"
+ },
+ "order_map": {
+  "Halobacteriales": "halophile",
+  "Halorutilales": "halophile",
+  "Thermococcales": "thermophile",
+  "Archaeoglobales": "thermophile",
+  "Methanopyrales": "thermophile",
+  "Thermoproteales": "thermophile",
+  "Thermofilales": "thermophile",
+  "Sulfolobales": "thermoacidophile",
+  "Thermoplasmatales": "thermoacidophile",
+  "Aciduliprofundales": "thermoacidophile"
+ },
+ "groups": [
+  {
+   "lifestyle": "halophile",
+   "N": 60,
+   "k": 48,
+   "prop": 0.8,
+   "lo": 0.6821819419437211,
+   "hi": 0.8817149467710251,
+   "median_genome_size": 3125344.5,
+   "median_best_score": 93.35,
+   "n_phyla": 2,
+   "n_orders": 3,
+   "orders": [
+    "Halobacteriales",
+    "Halorutilales",
+    "Nanosalinales"
+   ]
+  },
+  {
+   "lifestyle": "thermophile",
+   "N": 41,
+   "k": 13,
+   "prop": 0.3170731707317073,
+   "lo": 0.19564613898988575,
+   "hi": 0.4698419964434429,
+   "median_genome_size": 1812403.0,
+   "median_best_score": 121.4,
+   "n_phyla": 4,
+   "n_orders": 6,
+   "orders": [
+    "Archaeoglobales",
+    "Methanofastidiosales",
+    "Methanopyrales",
+    "Thermococcales",
+    "Thermofilales",
+    "Thermoproteales"
+   ]
+  },
+  {
+   "lifestyle": "thermoacidophile",
+   "N": 46,
+   "k": 6,
+   "prop": 0.13043478260869565,
+   "lo": 0.06117840362035115,
+   "hi": 0.25665857779073004,
+   "median_genome_size": 1630478.0,
+   "median_best_score": 113.1,
+   "n_phyla": 2,
+   "n_orders": 3,
+   "orders": [
+    "Aciduliprofundales",
+    "Sulfolobales",
+    "Thermoplasmatales"
+   ]
+  },
+  {
+   "lifestyle": "unclassified",
+   "N": 1112,
+   "k": 97,
+   "prop": 0.08723021582733813,
+   "lo": 0.07203415809368831,
+   "hi": 0.10526832269940571,
+   "median_genome_size": 1282566.0,
+   "median_best_score": 109.4,
+   "n_phyla": 19,
+   "n_orders": 157,
+   "orders": [
+    "0-14-0-20-30-16",
+    "40CM-2-53-6",
+    "Aenigmatarchaeales",
+    "Alkanophagales",
+    "Altiarchaeales",
+    "Anstonellales",
+    "B14-G2",
+    "B1Sed10-29",
+    "B24",
+    "B31-G17",
+    "B33-G15",
+    "B47-G6B"
+   ]
+  }
+ ],
+ "coverage": {
+  "classified": 147,
+  "fraction": 0.11675933280381255
+ },
+ "size_matched": {
+  "1.0-1.5": {
+   "unclassified": {
+    "N": 362,
+    "k": 16,
+    "prop": 0.04419889502762431
+   },
+   "thermoacidophile": {
+    "N": 15,
+    "k": 2,
+    "prop": 0.13333333333333333
+   },
+   "halophile": {
+    "N": 4,
+    "k": 1,
+    "prop": 0.25
+   },
+   "thermophile": {
+    "N": 7,
+    "k": 1,
+    "prop": 0.14285714285714285
+   }
+  },
+  "1.5-2.5": {
+   "unclassified": {
+    "N": 297,
+    "k": 46,
+    "prop": 0.15488215488215487
+   },
+   "thermophile": {
+    "N": 31,
+    "k": 12,
+    "prop": 0.3870967741935484
+   },
+   "thermoacidophile": {
+    "N": 29,
+    "k": 4,
+    "prop": 0.13793103448275862
+   },
+   "halophile": {
+    "N": 9,
+    "k": 9,
+    "prop": 1.0
+   }
+  },
+  "0-1.0": {
+   "unclassified": {
+    "N": 353,
+    "k": 2,
+    "prop": 0.0056657223796034
+   },
+   "halophile": {
+    "N": 9,
+    "k": 1,
+    "prop": 0.1111111111111111
+   },
+   "thermophile": {
+    "N": 1,
+    "k": 0,
+    "prop": 0.0
+   }
+  },
+  "3.5-99": {
+   "unclassified": {
+    "N": 28,
+    "k": 7,
+    "prop": 0.25
+   },
+   "halophile": {
+    "N": 21,
+    "k": 21,
+    "prop": 1.0
+   }
+  },
+  "2.5-3.5": {
+   "unclassified": {
+    "N": 72,
+    "k": 26,
+    "prop": 0.3611111111111111
+   },
+   "halophile": {
+    "N": 17,
+    "k": 16,
+    "prop": 0.9411764705882353
+   },
+   "thermophile": {
+    "N": 2,
+    "k": 0,
+    "prop": 0.0
+   },
+   "thermoacidophile": {
+    "N": 2,
+    "k": 0,
+    "prop": 0.0
+   }
+  }
+ }
+}

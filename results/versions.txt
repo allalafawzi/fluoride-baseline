@@ -1,0 +1,26 @@
+# Software versions used to produce this deposit.
+# Generated 2026-09-15T22:22:07Z on the analysis environment.
+#
+# HMMER and MAFFT built the models and scanned the proteomes on another machine
+# (see GETTING_STARTED.md). The versions below are the ones declared in the
+# paper; the HMMER version is verified at run time by uncensor_scan.sh.
+
+HMMER      3.4 (Aug 2023)   # declared; verified at run time by uncensor_scan.sh
+MAFFT      v7 (--localpair --maxiterate 1000 --anysymbol --thread 1)
+Prodigal   V2.6.3
+Python     3.11.15 on Linux
+numpy      2.4.4
+scipy      1.17.1
+statsmodels 0.15.0
+
+# --- databases ---
+GTDB       R10-RS226   # frozen set; GTDB R11-RS232 has since been released, not used here
+UniProt    NOT RECORDED at the time the seeds were extracted.
+#          The only bound available: the three entries removed from the FAcD
+#          seed still existed in release 2026_01 (see
+#          seeds/characterised_facd.tsv) and had disappeared by September 2026.
+#          The exact release number of the extraction was never written down.
+#          This file declares the gap; it does not fill it.
+Pfam       NOT RECORDED. Three families are cited (PF00561, PF00702, PF02537),
+#          all of them live on 30 September 2026; the InterPro/Pfam version
+#          consulted was not written down either.

@@ -1,0 +1,44 @@
+{
+  "marker": "Fluc_CrcB",
+  "threshold": 95.0,
+  "panel": {
+    "k": 164,
+    "n": 1259,
+    "prop": 0.13026211278792693
+  },
+  "filtered": {
+    "k": 106,
+    "n": 479,
+    "prop": 0.22129436325678498
+  },
+  "raw_gap_points": 9.103225046885804,
+  "phylum_fixed": {
+    "k": 163,
+    "n": 1237,
+    "prop": 0.13177041228779304,
+    "n_surviving_phyla": 17,
+    "lost_phyla": [
+      "Altiarchaeota",
+      "Huberarchaeota",
+      "JACRDV01",
+      "SpSt-1190"
+    ]
+  },
+  "composition_effect_points": 0.15082994998661114,
+  "residual_at_fixed_phylum_points": 8.952395096899194,
+  "family_fixed": {
+    "n_mixed_families": 113,
+    "below": {
+      "k": 9,
+      "n": 170,
+      "prop": 0.052941176470588235
+    },
+    "above": {
+      "k": 13,
+      "n": 146,
+      "prop": 0.08904109589041095
+    },
+    "gap_points": 3.609991941982272
+  },
+  "caveat": "Genome size is not held fixed at any level; it is the strongest predictor of the channel and is correlated with completeness, so the within-family gap still contains it."
+}

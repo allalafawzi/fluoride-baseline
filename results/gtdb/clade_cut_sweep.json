@@ -1,0 +1,66 @@
+{
+  "raw_proportion": 0.13026211278792693,
+  "published_cut": 10,
+  "sweep": [
+    {
+      "min_n": 1,
+      "n_phyla": 21,
+      "n_zero": 8,
+      "mean_by_phylum": 0.11920277372254547
+    },
+    {
+      "min_n": 2,
+      "n_phyla": 19,
+      "n_zero": 6,
+      "mean_by_phylum": 0.13175043411439236
+    },
+    {
+      "min_n": 3,
+      "n_phyla": 19,
+      "n_zero": 6,
+      "mean_by_phylum": 0.13175043411439236
+    },
+    {
+      "min_n": 5,
+      "n_phyla": 19,
+      "n_zero": 6,
+      "mean_by_phylum": 0.13175043411439236
+    },
+    {
+      "min_n": 8,
+      "n_phyla": 17,
+      "n_zero": 4,
+      "mean_by_phylum": 0.14725048518667383
+    },
+    {
+      "min_n": 10,
+      "n_phyla": 16,
+      "n_zero": 3,
+      "mean_by_phylum": 0.15645364051084093
+    },
+    {
+      "min_n": 12,
+      "n_phyla": 15,
+      "n_zero": 2,
+      "mean_by_phylum": 0.16688388321156367
+    },
+    {
+      "min_n": 15,
+      "n_phyla": 12,
+      "n_zero": 1,
+      "mean_by_phylum": 0.16098580639540688
+    },
+    {
+      "min_n": 20,
+      "n_phyla": 9,
+      "n_zero": 0,
+      "mean_by_phylum": 0.13829946375787844
+    },
+    {
+      "min_n": 30,
+      "n_phyla": 8,
+      "n_zero": 0,
+      "mean_by_phylum": 0.13058689672761326
+    }
+  ]
+}

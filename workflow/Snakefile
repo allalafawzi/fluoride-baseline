@@ -1,0 +1,116 @@
+# Snakefile: the chain that was actually run to produce this deposit.
+#
+# What it covers: the part that replays from the deposited files, that is the
+# statistical analyses and the checks. It does not cover building the models or
+# scanning the proteomes, which need HMMER, MAFFT and 700 GB of proteomes that
+# are not in the archive. Those steps have their own scripts, documented in
+# README section 3, and are run where the proteomes are.
+#
+#   snakemake -s workflow/Snakefile --cores 4
+#
+# Where this file and the README disagree, check_deposit.py settles it: it
+# recomputes the published figures from the deposited tables.
+
+configfile: "config.yaml"
+
+MARKERS = {
+    "Fluc_CrcB": {"pos": "seeds/fluc_pos.faa", "neg": "seeds/negatives.faa"},
+    # CLC_F uses its own negative set, filtered on two conditions at once:
+    # manual review and the name of an established function. Using
+    # seeds/negatives.faa here would move its gathering threshold.
+    "CLC_F": {"pos": "seeds/clcf_pos.faa", "neg": "seeds/negatives_clc.faa"},
+    "FAcD": {"pos": "seeds/facd_pos.faa", "neg": "seeds/facd_neg.faa"},
+}
+
+
+rule all:
+    input:
+        "results/gtdb/baseline_archaea.json",
+        "results/gtdb/lifestyle_fluc.json",
+        "results/gtdb/fluc_copy_number.json",
+        "results/gtdb/firth_phylum.json",
+        "results/versions.txt",
+        ".check_deposit.ok",
+
+
+# --- analyses that replay from the deposited tables --------------------------
+
+rule baseline:
+    input:
+        scan="results/gtdb/scan_archaea.tsv",
+        plan="data/gtdb/ar53_plan.tsv",
+    output:
+        "results/gtdb/baseline_archaea.json",
+    params:
+        # The option is --min-n, not --min-clade-n; the latter does not exist
+        # and makes the script exit 2. check_deposit.py runs this rule rather
+        # than reading it, so a wrong option name here fails loudly.
+        # The value is 10, the one behind the published result (15.645 % over
+        # 16 phyla). A value of 3 gives 13.175 % over 19 phyla: the rule still
+        # runs, it simply no longer reproduces the paper, and nothing says so.
+        n=config["min_clade_n"],
+    shell:
+        "python3 scripts/analyse_archaea.py --scan {input.scan} --plan {input.plan} "
+        "--min-n {params.n} --out {output}"
+
+
+rule lifestyle:
+    input:
+        scan="results/gtdb/scan_archaea.tsv",
+        plan="data/gtdb/ar53_plan.tsv",
+    output:
+        "results/gtdb/lifestyle_fluc.json",
+    shell:
+        "python3 scripts/lifestyle_fluc.py --scan {input.scan} --plan {input.plan} "
+        "--out {output}"
+
+
+rule copy_number:
+    input:
+        scan="results/gtdb/scan_archaea.tsv",
+        plan="data/gtdb/ar53_plan.tsv",
+    output:
+        "results/gtdb/fluc_copy_number.json",
+    shell:
+        "python3 scripts/fluc_copy_number.py --scan {input.scan} --plan {input.plan} "
+        "--out {output}"
+
+
+rule firth:
+    input:
+        scan="results/gtdb/scan_archaea.tsv",
+        plan="data/gtdb/ar53_plan.tsv",
+    output:
+        "results/gtdb/firth_phylum.json",
+    shell:
+        "python3 scripts/firth_phylum.py --scan {input.scan} --plan {input.plan} "
+        "--out {output}"
+
+
+# --- checks: these must fail loudly -----------------------------------------
+
+rule firth_selftest:
+    output:
+        touch(".firth_selftest.ok"),
+    shell:
+        "python3 scripts/firth_selftest.py --B 400"
+
+
+rule check_deposit:
+    input:
+        "results/gtdb/baseline_archaea.json",
+        "results/gtdb/lifestyle_fluc.json",
+        "results/gtdb/fluc_copy_number.json",
+        "results/gtdb/firth_phylum.json",
+        ".firth_selftest.ok",
+    output:
+        touch(".check_deposit.ok"),
+    shell:
+        "python3 scripts/check_deposit.py"
+
+
+rule versions:
+    output:
+        "results/versions.txt",
+    shell:
+        "test -s {output}"

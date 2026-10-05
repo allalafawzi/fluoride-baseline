@@ -1,0 +1,60 @@
+{
+ "marker": "Fluc_CrcB",
+ "by_lifestyle": {
+  "halophile": {
+   "n_genomes": 48,
+   "n_copies": 97,
+   "copies_per_genome": 2.0208333333333335,
+   "distribution": {
+    "1": 1,
+    "2": 46,
+    "4": 1
+   },
+   "pairs": 46,
+   "pairs_adjacent": 7,
+   "pairs_not_adjacent": 0,
+   "pairs_undecidable": 39,
+   "frac_adjacent_among_decidable": null,
+   "note": "adjacency is decidable only for contig+index identifiers"
+  },
+  "thermophile": {
+   "n_genomes": 13,
+   "n_copies": 13,
+   "copies_per_genome": 1.0,
+   "distribution": {
+    "1": 13
+   }
+  },
+  "thermoacidophile": {
+   "n_genomes": 6,
+   "n_copies": 7,
+   "copies_per_genome": 1.1666666666666667,
+   "distribution": {
+    "1": 5,
+    "2": 1
+   },
+   "pairs": 1,
+   "pairs_adjacent": 0,
+   "pairs_not_adjacent": 0,
+   "pairs_undecidable": 1,
+   "frac_adjacent_among_decidable": null,
+   "note": "adjacency is decidable only for contig+index identifiers"
+  },
+  "unclassified": {
+   "n_genomes": 97,
+   "n_copies": 122,
+   "copies_per_genome": 1.2577319587628866,
+   "distribution": {
+    "1": 74,
+    "2": 22,
+    "4": 1
+   },
+   "pairs": 22,
+   "pairs_adjacent": 2,
+   "pairs_not_adjacent": 1,
+   "pairs_undecidable": 19,
+   "frac_adjacent_among_decidable": null,
+   "note": "adjacency is decidable only for contig+index identifiers"
+  }
+ }
+}

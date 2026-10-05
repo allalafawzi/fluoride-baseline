@@ -1,0 +1,37 @@
+name: fluoride-baseline
+# nodefaults: without it conda also queries repo.anaconda.com, and every
+# resolution spends time on attempts that fail where that host is unreachable.
+channels: [conda-forge, bioconda, nodefaults]
+dependencies:
+  # Upper bound on Python: part of the bioinformatics ecosystem has no build
+  # beyond 3.13 (pyrodigal among others). Without the bound conda resolves to
+  # 3.14 and several packages become uninstallable.
+  - python>=3.11,<3.13
+  - hmmer>=3.4
+  - infernal>=1.1.5
+  - mafft>=7.5
+  - ncbi-datasets-cli
+  - biopython
+  - snakemake-minimal
+  - numpy
+  - scipy
+  - matplotlib-base
+  # statsmodels is used by check 2 of scripts/firth_selftest.py, which compares
+  # this implementation of Firth against ordinary maximum likelihood. Without
+  # it that check degrades silently to a skip, so the one check that validates
+  # Firth against an independent estimator stops running.
+  - statsmodels
+  # pyyaml lets scripts/check_deposit.py read config.yaml to run the recipe's
+  # rules. It falls back to a minimal parser without it; installing it avoids
+  # that degraded mode.
+  - pyyaml
+  - pip
+  - unzip
+  - wget
+  # Gene prediction on unannotated assemblies (MAGs). prodigal is the C binary,
+  # with no Python version constraint, and scripts/predict_genes.py calls it
+  # directly.
+  - prodigal>=2.6
+  # pyrodigal is the same engine as a Python library, faster in parallel.
+  # Optional: predict_genes.py prefers it when present.
+  - pyrodigal>=3.0

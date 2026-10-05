@@ -1,0 +1,267 @@
+accession	family	status_deposit	status_uniprot_2026_10	name_deposit	name_uniprot_2026_10	PE_deposit	PE_uniprot_2026_10	length_aa	organism	class_label	alert
+A0A0X1U816	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	420	Anaerotignum propionicum DSM 1682	-	-
+A0A2S2DRB4	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	411	Aquirufa nivalisilvae	-	-
+A0A369QFZ6	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	442	Adhaeribacter pallidiroseus	-	-
+A0A3P5Y7M1	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	419	Streptococcus canis	-	-
+A0A4Y3M3S6	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	446	Gluconobacter roseus NBRC 3990	-	-
+A0A564SXH6	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	422	Faecalibacterium prausnitzii	-	-
+A0A5E4RIR5	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	440	Pandoraea pneumonica	-	-
+A0A6J5G5K3	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	438	Paraburkholderia caffeinitolerans	-	-
+A0A6N4X0Y2	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	435	Chryseobacterium potabilaquae	-	-
+A0A6N8I2N7	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	450	Caproicibacter fermentans	-	-
+A0A6V8LZ42	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	585	Fundidesulfovibrio magnetotacticus	-	sequence_longue
+A0A916J0H1	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	427	Cupriavidus yeoncheonensis	-	-
+A0A916K8S1	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	447	Paenibacillus solanacearum	-	-
+A0AAQ2UB20	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	419	Roseburia intestinalis L1-82	-	-
+A0ABQ2PCE4	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	432	Silvimonas iriomotensis	-	-
+A0ABQ3HER8	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	437	Vogesella fluminis	-	-
+A0ABX2D5P8	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	403	Microcoleus asticus IPMA8	-	-
+A0ABY5NX85	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	400	Vagococcus luciliae	-	-
+A0ABY6VA78	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	443	Klebsiella spallanzanii	-	-
+A0ABZ3FCS2	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	414	Terrisporobacter petrolearius	-	-
+A0ABZ3J069	CLC_F	TrEMBL	TrEMBL	Chloride/fluoride channel protein	Chloride/fluoride channel protein	4	4	458	Sporomusa acidovorans (strain ATCC 49682 / DSM 3132 / Mol)	-	-
+Q87WD2	CLC_F	Swiss-Prot	Swiss-Prot	Chloride/fluoride channel protein	Chloride/fluoride channel protein	1	1	452	Pseudomonas syringae pv. tomato (strain ATCC BAA-871 / DC3000)	-	-
+A0A060ZW91	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	297	Streptomyces iranensis	haloacetate_ambigu	-
+A0A081FUD4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	291	Marinobacterium lacunae	haloacetate_ambigu	-
+A0A085GK91	FAcD	TrEMBL	TrEMBL	Putative hydrolase or acyltransferase	Putative hydrolase or acyltransferase	4	4	292	Ewingella americana (strain ATCC 33852 / DSM 4580 / CCUG 14506 / JCM 5911 / LMG 7869 / NCTC 12157 / CDC 1468-78)	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A090GHB0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	297	Mesorhizobium plurifarium	fluoroacetate	-
+A0A090MTS9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	303	Afipia felis	fluoroacetate	-
+A0A098EGY6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	287	Planococcus massiliensis	fluoroacetate	-
+A0A0A1FD21	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	294	Collimonas arenae	haloacetate_ambigu	-
+A0A0C4Y4A6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	296	Cupriavidus basilensis	haloacetate_ambigu	-
+A0A0C6FP29	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	303	Methylobacterium aquaticum	fluoroacetate	-
+A0A0D1ECN7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	296	Jannaschia aquimarina	fluoroacetate	-
+A0A0D2MVA4	FAcD	TrEMBL	TrEMBL	Alpha/beta hydrolase fold protein	Alpha/beta hydrolase fold protein	3	3	310	Monoraphidium neglectum	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A0E3ZN82	FAcD	TrEMBL	TrEMBL	Hydrolases or acyltransferases (Alpha/beta hydrolase superfamily)	Hydrolases or acyltransferases (Alpha/beta hydrolase superfamily)	4	4	302	Polynucleobacter duraquae	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A0H1R951	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	302	Microvirga vignae	fluoroacetate	-
+A0A0H2M2C5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	304	Variovorax paradoxus	haloacetate_ambigu	-
+A0A0K8P249	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	316	Piscinibacter sakaiensis	haloacetate_ambigu	-
+A0A0L0NI50	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	301	Tolypocladium ophioglossoides (strain CBS 100239)	fluoroacetate	-
+A0A0L6CVI8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	287	Roseovarius tolerans	haloacetate_ambigu	-
+A0A0M0EBT1	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	297	Komagataeibacter europaeus	haloacetate_ambigu	-
+A0A0M6Y5V6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	305	Roseibium aggregatum	fluoroacetate	-
+A0A0M9GCW1	FAcD	TrEMBL	TrEMBL	Putative hydrolase or acyltransferase of alpha/beta superfamily	Putative hydrolase or acyltransferase of alpha/beta superfamily	4	4	291	Pseudomonas asplenii	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A0M9VW89	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	315	Escovopsis weberi	fluoroacetate	-
+A0A0P1E0I6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	296	Ruegeria atlantica	haloacetate_ambigu	-
+A0A0P1G6R0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	283	Thalassovita autumnalis	haloacetate_ambigu	-
+A0A0P1GVT8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	296	Tritonibacter multivorans	haloacetate_ambigu	-
+A0A0P1IU07	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	290	Cognatishimia activa	haloacetate_ambigu	-
+A0A0S3PPM6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	298	Variibacter gotjawalensis	fluoroacetate	-
+A0A0X8HHC3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	293	Halomonas chromatireducens	fluoroacetate	-
+A0A136WID5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	291	Anaerotignum neopropionicum	haloacetate_ambigu	-
+A0A157SBD9	FAcD	TrEMBL	TrEMBL	Epoxide hydrolase	Epoxide hydrolase	4	4	296	Bordetella ansorpii	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A162S1E9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	303	Clostridium magnum DSM 2767	haloacetate_ambigu	-
+A0A194UMB5	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	301	Cytospora mali	fluoroacetate	-
+A0A1B0ZN10	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	295	Phaeobacter gallaeciensis	fluoroacetate	-
+A0A1D7TJ49	FAcD	TrEMBL	TrEMBL	Alpha/beta hydrolase family protein	Alpha/beta hydrolase family protein	4	4	305	Sulfurospirillum halorespirans DSM 13726	aucune_deshalogenase_nommee	libelle_sans_fonction
+A0A1L9P1Q7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	301	Planktotalea frisia	fluoroacetate	-
+A0A1N7RQ18	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	296	Paraburkholderia ribeironis	fluoroacetate	-
+A0A1P8V004	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	313	Salipiger abyssi	haloacetate_ambigu	-
+A0A1Q8RCS3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	302	Colletotrichum chlorophyti	fluoroacetate	-
+A0A1Y0EHC4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	295	Yoonia vestfoldensis	fluoroacetate	-
+A0A1Y2MMP9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	308	Pseudonocardia autotrophica	fluoroacetate	-
+A0A1Y5RAD9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	307	Pseudoruegeria aquimaris	haloacetate_ambigu	-
+A0A221JZ83	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	295	Pseudosulfitobacter pseudonitzschiae	haloacetate_ambigu	-
+A0A221WAW0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Actinoalloteichus hoggarensis	fluoroacetate	-
+A0A231HAA3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	293	Nocardia cerradoensis	fluoroacetate	-
+A0A238IWK5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	284	Boseongicola aestuarii	haloacetate_ambigu	-
+A0A238JYT5	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	301	Pelagimonas varians	fluoroacetate	-
+A0A238K6I1	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	294	Maliponia aquimaris	haloacetate_ambigu	-
+A0A238KTX7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	300	Actibacterium lipolyticum	fluoroacetate	-
+A0A238LHW4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Flavimaricola marinus	fluoroacetate	-
+A0A239SJE3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	303	Pandoraea sputorum	fluoroacetate	-
+A0A256G939	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	308	Brucella pseudogrignonensis	fluoroacetate	-
+A0A2C9D2S9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	352	Hartmannibacter diazotrophicus	fluoroacetate	-
+A0A2R8AXH2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	287	Pseudoprimorskyibacter insulae	haloacetate_ambigu	-
+A0A2R8B4C0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	297	Albidovulum aquaemixtae	haloacetate_ambigu	-
+A0A2R8BEV7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	294	Ascidiaceihabitans donghaensis	haloacetate_ambigu	-
+A0A2R8CM78	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	293	Kushneria phyllosphaerae	fluoroacetate	-
+A0A2S3VXQ7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	297	Novacetimonas maltaceti	haloacetate_ambigu	-
+A0A2T4GUT1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	300	Fusarium culmorum	fluoroacetate	-
+A0A2U8P2I7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	298	Bradyrhizobium ottawaense	haloacetate_ambigu	-
+A0A2X4UW55	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	295	Leminorella richardii	haloacetate_ambigu	-
+A0A2Z2NXP9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	303	Granulosicoccus antarcticus IMCC3135	haloacetate_ambigu	-
+A0A388SFE7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	311	Mesosutterella multiformis	fluoroacetate	-
+A0A395NZT0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	309	Trichoderma arundinaceum	fluoroacetate	-
+A0A399EKM1	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	288	Meiothermus luteus	haloacetate_ambigu	-
+A0A3P4B1T8	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	299	Pigmentiphaga humi	fluoroacetate	-
+A0A402AKB3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Dictyobacter kobayashii	fluoroacetate	-
+A0A446C2F0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	300	Achromobacter agilis	haloacetate_ambigu	-
+A0A447CYM1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	301	Rhodoplanes serenus	fluoroacetate	-
+A0A447V2H0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	307	Cedecea lapagei	haloacetate_ambigu	-
+A0A4V0ZJQ9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	291	Streptomonospora litoralis	fluoroacetate	-
+A0A511XCH1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	297	Acetobacter nitrogenifigens DSM 23921 = NBRC 105050	fluoroacetate	-
+A0A512DSZ2	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	305	Skermanella aerolata	fluoroacetate	-
+A0A512IEQ7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Kocuria turfanensis	fluoroacetate	-
+A0A512N2P1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	295	Reyranella soli	fluoroacetate	-
+A0A563VQH5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	290	Hyella patelloides LEGE 07179	haloacetate_ambigu	-
+A0A5M3WVU1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	295	Acrocarpospora macrocephala	fluoroacetate	-
+A0A5S9NGE4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	309	Starkeya nomas	fluoroacetate	-
+A0A640VLT4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	308	Roseobacter cerasinus	fluoroacetate	-
+A0A6F8XV06	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	252	Phytohabitans flavus	fluoroacetate	-
+A0A6H2H580	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	326	Polaromonas vacuolata	fluoroacetate	-
+A0A6M4GYL3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Usitatibacter rugosus	fluoroacetate	-
+A0A6S6QJH9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	313	Terrihabitans soli	fluoroacetate	-
+A0A7D5UVF8	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	298	Metarhizium brunneum	fluoroacetate	-
+A0A7D8YNN0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase (Fragment)	Fluoroacetate dehalogenase	4	4	238	Lachnellula cervina	fluoroacetate	nom_modifie;sequence_courte
+A0A7K0BRA4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	288	Actinomadura macrotermitis	fluoroacetate	-
+A0A7M4DRQ9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Occultella aeris	fluoroacetate	-
+A0A7W0HSD8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	307	Nonomuraea soli	haloacetate_ambigu	-
+A0A7W4YLL3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	314	Leifsonia aquatica	haloacetate_ambigu	-
+A0A7W5FJN8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	286	Actinoplanes campanulatus	haloacetate_ambigu	-
+A0A7W5JYE4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Microlunatus antarcticus	haloacetate_ambigu	-
+A0A7W6C0B6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	292	Aureimonas phyllosphaerae	haloacetate_ambigu	-
+A0A7W6CBM0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	301	Rhizobium skierniewicense	haloacetate_ambigu	-
+A0A7W6D2G9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	302	Hansschlegelia beijingensis	haloacetate_ambigu	-
+A0A7W6HEK6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Aurantimonas endophytica	haloacetate_ambigu	-
+A0A7W6WB34	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Roseospira visakhapatnamensis	haloacetate_ambigu	-
+A0A7W7CGD5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	296	Crossiella cryophila	haloacetate_ambigu	-
+A0A7W7D6N7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	293	Sphaerisporangium siamense	haloacetate_ambigu	-
+A0A7W7F531	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	301	Sphingosinicella soli	haloacetate_ambigu	-
+A0A7W7G3Q6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	287	Paractinoplanes abujensis	haloacetate_ambigu	-
+A0A7W7Q9G8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	285	Actinophytocola algeriensis	haloacetate_ambigu	-
+A0A7W7RUB2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	291	Streptosporangium album	haloacetate_ambigu	-
+A0A7W7SWA9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	302	Micromonospora polyrhachis	haloacetate_ambigu	-
+A0A7W8QI22	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	298	Nocardiopsis composta	haloacetate_ambigu	-
+A0A7W9J7C6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Kribbella italica	haloacetate_ambigu	-
+A0A7W9LL30	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	298	Jiangella mangrovi	haloacetate_ambigu	-
+A0A7W9X4G4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	297	Massilia aurea	haloacetate_ambigu	-
+A0A7X0PKY0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	300	Acidovorax soli	haloacetate_ambigu	-
+A0A7X5ZR73	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Saccharomonospora amisosensis	haloacetate_ambigu	-
+A0A7Y9J840	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Actinomycetospora corticicola	haloacetate_ambigu	-
+A0A830GNL7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	291	Haloarcula pellucida	fluoroacetate	-
+A0A839SS41	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	291	Limibacillus halophilus	haloacetate_ambigu	-
+A0A839U7P5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	316	Phyllobacterium trifolii	haloacetate_ambigu	-
+A0A839UXC5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	305	Endobacter medicaginis	haloacetate_ambigu	-
+A0A839ZXS5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Phenylobacterium haematophilum	haloacetate_ambigu	-
+A0A840A9D9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Roseococcus suduntuyensis	haloacetate_ambigu	-
+A0A840BY72	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	302	Chelatococcus caeni	haloacetate_ambigu	-
+A0A840IKQ5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	295	Amycolatopsis jiangsuensis	haloacetate_ambigu	-
+A0A840NY55	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	286	Thermocatellispora tengchongensis	haloacetate_ambigu	-
+A0A840Y0Q4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Neoroseomonas alkaliterrae	haloacetate_ambigu	-
+A0A840Y427	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Muricoccus pecuniae	haloacetate_ambigu	-
+A0A840ZPI9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	304	Methylorubrum rhodinum	haloacetate_ambigu	-
+A0A841BKQ6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	296	Allocatelliglobosispora scoriae	haloacetate_ambigu	-
+A0A841C6C4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	283	Saccharothrix tamanrassetensis	haloacetate_ambigu	-
+A0A841FNQ5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Phytomonospora endophytica	haloacetate_ambigu	-
+A0A841HK34	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	298	Povalibacter uvarum	haloacetate_ambigu	-
+A0A841LYP7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	300	Paenochrobactrum gallinarii	haloacetate_ambigu	-
+A0A846RWD2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	309	Brevibacterium marinum	haloacetate_ambigu	-
+A0A853CHQ5	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	293	Petropleomorpha daqingensis	haloacetate_ambigu	-
+A0A8B6MCI7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	297	Methylocella tundrae	fluoroacetate	-
+A0A8H5PTL5	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	299	Gibberella subglutinans	fluoroacetate	-
+A0A8J2VXG2	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	301	Agaricicola taiwanensis	fluoroacetate	-
+A0A8J3E3X1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	301	Aliidongia dinghuensis	fluoroacetate	-
+A0A8J3ED96	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	297	Caldovatus sediminis	fluoroacetate	-
+A0A8J3M9R8	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Seohaeicola zhoushanensis	fluoroacetate	-
+A0A8J3UND5	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	300	Planotetraspora silvatica	fluoroacetate	-
+A0A8J3VQC9	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Rugosimonospora africana	fluoroacetate	-
+A0A8J3ZCL3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	290	Virgisporangium aurantiacum	fluoroacetate	-
+A0A8S8X7F1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	297	Roseiterribacter gracilis	fluoroacetate	-
+A0A917A409	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Primorskyibacter flagellatus	fluoroacetate	-
+A0A917DXL6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	308	Croceicoccus mobilis	fluoroacetate	-
+A0A917I3B4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	311	Alsobacter metallidurans	fluoroacetate	-
+A0A917ZTH6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	310	Wenjunlia tyrosinilytica	fluoroacetate	-
+A0A918FE42	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	293	Agromyces mediolanus	fluoroacetate	-
+A0A918XRU7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Thalassobaculum fulvum	fluoroacetate	-
+A0A919UBW0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	291	Dactylosporangium siamense	fluoroacetate	-
+A0A921NRP7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	295	Profundibacterium mesophilum KAUST100406-0324	haloacetate_ambigu	-
+A0A927M7N3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	295	Plantactinospora soyae	haloacetate_ambigu	-
+A0A9P7AZH1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Hyphodiscus hymeniophilus	fluoroacetate	-
+A0A9W4DXM7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	289	Actinacidiphila cocklensis	fluoroacetate	-
+A0A9W6CSU4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	303	Xanthobacter flavus	haloacetate_ambigu	-
+A0A9W6J558	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	309	Ancylobacter dichloromethanicus	fluoroacetate	-
+A0A9W6JUK6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	305	Methylopila turkensis	fluoroacetate	-
+A0A9W6S3B8	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	298	Actinoallomurus iriomotensis	fluoroacetate	-
+A0AA35RYJ2	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	283	Geodia barretti	fluoroacetate	-
+A0AA38RWA0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	299	Pleurostoma richardsiae	fluoroacetate	-
+A0AAD2AMP4	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	308	Ralstonia wenshanensis	fluoroacetate	-
+A0AAE3HMF3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	293	Methylohalomonas lacus	haloacetate_ambigu	-
+A0AAE3KEX6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	289	Natronocella acetinitrilica	haloacetate_ambigu	-
+A0AAE3VRB6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	309	Amorphus orientalis	haloacetate_ambigu	-
+A0AAJ5K0M4	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	289	Deinococcus metallilatus	haloacetate_ambigu	-
+A0AAN0VJK7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase DehH	Haloacetate dehalogenase DehH	4	4	294	Planktomarina temperata RCA23	haloacetate_ambigu	-
+A0AAN1XXH3	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	287	Vulcanimicrobium alpinum	fluoroacetate	-
+A0AAP9NNH0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	295	Vreelandella titanicae	haloacetate_ambigu	-
+A0ABN6MNT1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	300	Anaeromyxobacter oryzae	fluoroacetate	-
+A0ABQ1KET8	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	286	Marivita lacus	fluoroacetate	-
+A0ABQ3UVQ7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	291	Ktedonobacter robiniae	fluoroacetate	-
+A0ABQ5WAA1	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	319	Devosia nitrariae	fluoroacetate	-
+A0ABR0T3I6	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	3	3	301	Cladobotryum mycophilum	fluoroacetate	-
+A0ABR6GXK9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	309	Roseateles terrae	haloacetate_ambigu	-
+A0ABR6JCC3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	306	Agrobacterium radiobacter	haloacetate_ambigu	-
+A0ABS4E313	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Heterorhizobium halophytocola	haloacetate_ambigu	-
+A0ABS4SSY3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	292	Azospirillum rugosum	haloacetate_ambigu	-
+A0ABS4TZJ3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	311	Kibdelosporangium banguiense	haloacetate_ambigu	-
+A0ABS5LY27	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	294	Comamonas brasiliensis	fluoroacetate	-
+A0ABT3HCQ9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	302	Rhodobium gokarnense	haloacetate_ambigu	-
+A0ABT6M7H2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Prescottella agglutinans	haloacetate_ambigu	-
+A0ABT9T3X8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	296	[Curtobacterium] plantarum	haloacetate_ambigu	-
+A0ABT9TP07	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	284	Paenarthrobacter nicotinovorans	haloacetate_ambigu	-
+A0ABU0FDV9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	311	Labrys monachus	haloacetate_ambigu	-
+A0ABU0GW03	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	231	Planomicrobium stackebrandtii	haloacetate_ambigu	sequence_courte
+A0ABU0IS59	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	297	Caulobacter ginsengisoli	haloacetate_ambigu	-
+A0ABU1IDF9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	312	Paracidovorax wautersii	haloacetate_ambigu	-
+A0ABU1JNX0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	285	Inquilinus ginsengisoli	haloacetate_ambigu	-
+A0ABU1T824	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	289	Mucilaginibacter pocheonensis	haloacetate_ambigu	-
+A0ABU1V9K3	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	298	Hydrogenophaga laconesensis	haloacetate_ambigu	-
+A0ABU1Z8Q9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	294	Pelomonas aquatica	haloacetate_ambigu	-
+A0ABU1ZMF7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	306	Rhodoferax saidenbachensis	haloacetate_ambigu	-
+A0ABU2ATJ8	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	315	Glycomyces lechevalierae	haloacetate_ambigu	-
+A0ABU2CRE2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	292	Promicromonospora iranensis	haloacetate_ambigu	-
+A0ABV2H3J2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	314	Pseudorhizobium tarimense	haloacetate_ambigu	-
+A0ABW8M9U7	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	297	Caballeronia udeis	haloacetate_ambigu	-
+A0ABX2Y1P5	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	292	Oerskovia enterophila	fluoroacetate	-
+A0ABX8ENA0	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	319	Nocardioides aquaticus	fluoroacetate	-
+A0QTW0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	296	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	haloacetate_ambigu	-
+A1K1F9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	308	Azoarcus sp. (strain BH72)	haloacetate_ambigu	-
+A4FDK1	FAcD	TrEMBL	TrEMBL	Probable epoxide alpha/beta hydrolase	Probable epoxide alpha/beta hydrolase	4	4	298	Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)	aucune_deshalogenase_nommee	libelle_sans_fonction
+A4G378	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	308	Herminiimonas arsenicoxydans	haloacetate_ambigu	-
+A8LKE2	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	295	Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12)	haloacetate_ambigu	-
+A9BLX5	FAcD	TrEMBL	TrEMBL	Alpha/beta hydrolase fold	Alpha/beta hydrolase fold	1	1	300	Delftia acidovorans (strain DSM 14801 / SPH-1)	aucune_deshalogenase_nommee	libelle_sans_fonction
+A9WPL6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	296	Renibacterium salmoninarum (strain ATCC 33209 / DSM 20767 / JCM 11484 / NBRC 15589 / NCIMB 2235)	haloacetate_ambigu	-
+D4E6T6	FAcD	TrEMBL	TrEMBL	Hydrolase, alpha/beta domain protein	Hydrolase, alpha/beta domain protein	4	4	294	Serratia odorifera DSM 4582	aucune_deshalogenase_nommee	libelle_sans_fonction
+D5BQ63	FAcD	TrEMBL	TrEMBL	Putative hydrolase or acyltransferase	Putative hydrolase or acyltransferase	4	4	297	Puniceispirillum marinum (strain IMCC1322)	aucune_deshalogenase_nommee	libelle_sans_fonction
+D5RIM3	FAcD	TrEMBL	TrEMBL	Hydrolase, alpha/beta domain protein	Hydrolase, alpha/beta domain protein	4	4	294	Pseudoroseomonas cervicalis ATCC 49957	aucune_deshalogenase_nommee	libelle_sans_fonction
+I4EVN9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	293	Modestobacter italicus (strain DSM 44449 / CECT 9708 / BC 501)	haloacetate_ambigu	-
+K9XSQ9	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	290	Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)	haloacetate_ambigu	-
+M9RAT1	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase DehH	Haloacetate dehalogenase DehH	4	4	293	Octadecabacter antarcticus 307	haloacetate_ambigu	-
+Q01398	FAcD	Swiss-Prot	Swiss-Prot	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	1	1	294	Moraxella sp. (strain B)	haloacetate_ambigu	-
+Q1JU72	FAcD	Swiss-Prot	Swiss-Prot	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	1	1	304	Burkholderia sp	fluoroacetate	-
+Q3M9T2	FAcD	TrEMBL	TrEMBL	Hydrolase	Hydrolase	4	4	194	Trichormus variabilis (strain ATCC 29413 / PCC 7937)	aucune_deshalogenase_nommee	sequence_courte;libelle_sans_fonction
+Q4C9B6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase	Haloacetate dehalogenase	4	4	154	Crocosphaera watsonii WH 8501	haloacetate_ambigu	sequence_courte
+Q6NAM1	FAcD	Swiss-Prot	Swiss-Prot	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	1	1	302	Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)	fluoroacetate	-
+U2EKU6	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase protein	Haloacetate dehalogenase protein	4	4	303	Salinisphaera shabanensis E1L3A	haloacetate_ambigu	-
+W0V2E0	FAcD	TrEMBL	TrEMBL	Haloacetate dehalogenase H-1	Haloacetate dehalogenase H-1	4	4	300	Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628	haloacetate_ambigu	-
+W4MAH7	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	290	Candidatus Entotheonella gemina	fluoroacetate	-
+X7F893	FAcD	TrEMBL	TrEMBL	Fluoroacetate dehalogenase	Fluoroacetate dehalogenase	4	4	293	Roseivivax isoporae LMG 25204	fluoroacetate	-
+A0K5C2	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	128	Burkholderia cenocepacia (strain HI2424)	-	-
+A0RPI7	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	128	Campylobacter fetus subsp. fetus (strain 82-40)	-	-
+A1B057	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	124	Paracoccus denitrificans (strain Pd 1222)	-	-
+A4STL2	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	125	Aeromonas salmonicida (strain A449)	-	-
+A4W811	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	127	Enterobacter sp. (strain 638)	-	-
+A6UPS4	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	122	Methanococcus vannielii (strain ATCC 35089 / DSM 1224 / JCM 13029 / OCM 148 / SB)	-	-
+A9A506	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Nitrosopumilus maritimus (strain SCM1)	-	-
+A9WHY7	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)	-	-
+B4R910	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	127	Phenylobacterium zucineum (strain HLK1)	-	-
+C6BTV9	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Maridesulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIMB 8403 / VKM B-1763)	-	-
+O59171	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	123	Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3)	-	-
+P46491	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	160	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	-	-
+P61785	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	127	Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27)	-	-
+Q0C3G9	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	127	Hyphomonas neptunium (strain ATCC 15444)	-	-
+Q11HT1	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	125	Chelativorans sp. (strain BNC1)	-	-
+Q16AB5	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Roseobacter denitrificans (strain ATCC 33942 / OCh 114)	-	-
+Q1GJZ3	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Ruegeria sp. (strain TM1040)	-	-
+Q1GRB2	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Sphingopyxis alaskensis (strain DSM 13593 / LMG 18877 / RB2256)	-	-
+Q1WS51	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC 2	Fluoride-specific ion channel FluC 2	3	3	129	Ligilactobacillus salivarius (strain UCC118)	-	-
+Q38ZE4	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC 2	Fluoride-specific ion channel FluC 2	3	3	115	Latilactobacillus sakei subsp. sakei (strain 23K)	-	-
+Q3A5X3	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	123	Syntrophotalea carbinolica (strain DSM 2380 / NBRC 103641 / GraBd1)	-	-
+Q46F67	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC 1	Fluoride-specific ion channel FluC 1	3	3	116	Methanosarcina barkeri (strain Fusaro / DSM 804)	-	-
+Q7MRQ2	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	128	Wolinella succinogenes (strain ATCC 29543 / DSM 1740 / CCUG 13145 / JCM 31913 / LMG 7466 / NCTC 11488 / FDC 602W)	-	-
+Q7VYU0	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	1	1	128	Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)	-	-
+Q89Z03	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	124	Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / JCM 5827 / CCUG 10774 / NCTC 10582 / VPI-5482 / E50)	-	-
+Q8EZS4	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	127	Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)	-	-
+Q8G5C2	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC 3	Fluoride-specific ion channel FluC 3	3	3	121	Bifidobacterium longum (strain NCC 2705)	-	-
+Q8TW26	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	131	Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)	-	-
+Q8VM97	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC	Fluoride-specific ion channel FluC	3	3	126	Cupriavidus necator (strain ATCC 17699 / DSM 428 / KCTC 22496 / NCIMB 10442 / H16 / Stanier 337)	-	-
+Q8ZDB1	Fluc	Swiss-Prot	Swiss-Prot	Fluoride-specific ion channel FluC 3	Fluoride-specific ion channel FluC 3	3	3	126	Yersinia pestis	-	-

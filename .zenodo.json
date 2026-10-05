@@ -1,0 +1,13 @@
+{
+  "upload_type": "dataset",
+  "title": "Fluoride-baseline: detectors, sampling plans and controls for the Fluc/CrcB fluoride channel census across archaeal genomes",
+  "description": "Three calibrated equivalog profile HMMs (Fluc/CrcB, CLC-F, FAcD), their calibration records, phylogenetically balanced sampling plans over GTDB r226, census tables, and a self-testing control suite supporting the manuscript on the detection of the Fluc/CrcB fluoride channel across 1,259 archaeal genomes.",
+  "creators": [
+    {"name": "Allala, Fawzi"},
+    {"name": "Hernández, Ernesto J."},
+    {"name": "Bouanane-Darenfed, Amel"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["fluoride", "CrcB", "Fluc", "CLC-F", "fluoroacetate dehalogenase", "archaea", "GTDB", "profile hidden Markov model", "phylogenetic sampling", "PFAS biodegradation"],
+  "version": "1.0.0"
+}

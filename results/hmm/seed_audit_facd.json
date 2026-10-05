@@ -1,0 +1,20 @@
+{
+  "seed": "seeds/facd_pos.faa",
+  "n_sequences": 214,
+  "by_source": {
+    "tr": 211,
+    "sp": 3
+  },
+  "by_protein_existence": {
+    "Predicted": 200,
+    "Evidence at protein level": 4,
+    "Inferred from homology": 10
+  },
+  "n_evidence_at_protein_level": 4,
+  "pe1_accessions": [
+    "Q1JU72",
+    "A9BLX5",
+    "Q01398",
+    "Q6NAM1"
+  ]
+}

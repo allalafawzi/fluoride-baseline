@@ -1,0 +1,92 @@
+{
+  "marker": "Fluc_CrcB",
+  "n_genomes": 1259,
+  "rule": "cut_ga",
+  "rule_description": "sequence score AND domain score must clear the threshold, as hmmsearch --cut_ga does",
+  "window": [
+    13.8,
+    68.1
+  ],
+  "published_GA": 40.95,
+  "amplitude_in_window": 0.02938840349483718,
+  "sweep": [
+    {
+      "threshold": 13.8,
+      "positives": 195,
+      "prevalence": 0.15488482922954727,
+      "ci_lo": 0.13595276411526602,
+      "ci_hi": 0.17591651770929762
+    },
+    {
+      "threshold": 20.0,
+      "positives": 167,
+      "prevalence": 0.13264495631453535,
+      "ci_lo": 0.11502149950244554,
+      "ci_hi": 0.15250334018423034
+    },
+    {
+      "threshold": 27.2,
+      "positives": 165,
+      "prevalence": 0.13105639396346305,
+      "ci_lo": 0.11353264672817144,
+      "ci_hi": 0.15082473280579814
+    },
+    {
+      "threshold": 35.0,
+      "positives": 164,
+      "prevalence": 0.13026211278792693,
+      "ci_lo": 0.11278855614993308,
+      "ci_hi": 0.14998509330768342
+    },
+    {
+      "threshold": 40.95,
+      "positives": 164,
+      "prevalence": 0.13026211278792693,
+      "ci_lo": 0.11278855614993308,
+      "ci_hi": 0.14998509330768342
+    },
+    {
+      "threshold": 50.0,
+      "positives": 164,
+      "prevalence": 0.13026211278792693,
+      "ci_lo": 0.11278855614993308,
+      "ci_hi": 0.14998509330768342
+    },
+    {
+      "threshold": 61.29,
+      "positives": 158,
+      "prevalence": 0.1254964257347101,
+      "ci_lo": 0.10832882494170072,
+      "ci_hi": 0.144942444057797
+    },
+    {
+      "threshold": 68.1,
+      "positives": 158,
+      "prevalence": 0.1254964257347101,
+      "ci_lo": 0.10832882494170072,
+      "ci_hi": 0.144942444057797
+    },
+    {
+      "threshold": 80.0,
+      "positives": 152,
+      "prevalence": 0.12073073868149325,
+      "ci_lo": 0.10387763433892389,
+      "ci_hi": 0.13989125420245502
+    },
+    {
+      "threshold": 100.0,
+      "positives": 99,
+      "prevalence": 0.07863383637807785,
+      "ci_lo": 0.0650148763019029,
+      "ci_hi": 0.09481631819275994
+    },
+    {
+      "threshold": 120.0,
+      "positives": 26,
+      "prevalence": 0.020651310563939634,
+      "ci_lo": 0.014131452599514073,
+      "ci_hi": 0.030087446321370045
+    }
+  ],
+  "note": "Recomputable from the deposited uncensored scan table. check_deposit.py re-derives a point of this sweep."
+}

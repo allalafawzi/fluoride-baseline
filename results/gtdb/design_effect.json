@@ -1,0 +1,31 @@
+{
+  "n_genomes": 1259,
+  "n_families": 591,
+  "family_size_distribution": {
+    "1": 216,
+    "2": 82,
+    "3": 293
+  },
+  "m_eff_kish": 2.5266084193804605,
+  "m_eff_even_allocation_lower_bound": 2.183478951548848,
+  "icc_family": 0.7302156084370351,
+  "deff": 2.1147532958030038,
+  "n_eff": 595.3413112057303,
+  "marker_k": 164,
+  "interval_naive": [
+    0.11278855614993308,
+    0.14998509330768342
+  ],
+  "interval_cluster_corrected": [
+    0.1055777160486738,
+    0.15968740976405763
+  ],
+  "zero_interval_naive": [
+    0.0,
+    0.0030419169357026616
+  ],
+  "zero_interval_cluster_corrected": [
+    0.0,
+    0.006411163693049307
+  ]
+}

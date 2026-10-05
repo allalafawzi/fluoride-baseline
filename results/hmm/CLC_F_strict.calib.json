@@ -1,0 +1,152 @@
+{
+  "model": "CLC_F_strict",
+  "n_positives": 14,
+  "n_negatives_tested": 4900,
+  "n_negatives_scored": 2632,
+  "negatives_by_source": {
+    "TrEMBL": {
+      "n": 308,
+      "max": 670.5,
+      "median": 82.0,
+      "top10": [
+        [
+          670.5,
+          "tr|D8IWE6|D8IWE6_HERSS"
+        ],
+        [
+          629.6,
+          "tr|G0AEB2|G0AEB2_COLFT"
+        ],
+        [
+          558.5,
+          "tr|U5MTF6|U5MTF6_CLOSA"
+        ],
+        [
+          537.3,
+          "tr|K8EDZ3|K8EDZ3_CARML"
+        ],
+        [
+          477.4,
+          "tr|A0A2P2DAP4|A0A2P2DAP4_9LEPT"
+        ],
+        [
+          441.1,
+          "tr|A0AAN4UD33|A0AAN4UD33_9ENTE"
+        ],
+        [
+          437.9,
+          "tr|A0ABN6NWF1|A0ABN6NWF1_9ENTE"
+        ],
+        [
+          368.8,
+          "tr|A0ABP1WJ65|A0ABP1WJ65_9FIRM"
+        ],
+        [
+          301.7,
+          "tr|A0A0H3J7N4|A0A0H3J7N4_CLOPA"
+        ],
+        [
+          164.0,
+          "tr|B8DWU3|B8DWU3_BIFA0"
+        ]
+      ]
+    },
+    "SwissProt": {
+      "n": 2324,
+      "max": 567.5,
+      "median": -2.3,
+      "top10": [
+        [
+          567.5,
+          "sp|Q4VFY6|SYCA_RHITR"
+        ],
+        [
+          138.9,
+          "sp|Q57753|Y305_METJA"
+        ],
+        [
+          111.5,
+          "sp|Q8D6J0|CLCA_VIBVU"
+        ],
+        [
+          111.5,
+          "sp|Q7MDF0|CLCA_VIBVY"
+        ],
+        [
+          110.6,
+          "sp|Q87GZ9|CLCA_VIBPA"
+        ],
+        [
+          106.1,
+          "sp|A7N6K9|CLCA_VIBC1"
+        ],
+        [
+          103.6,
+          "sp|Q9KM62|CLCA_VIBCH"
+        ],
+        [
+          103.6,
+          "sp|C3LVE3|CLCA_VIBCM"
+        ],
+        [
+          103.2,
+          "sp|A5F0D5|CLCA_VIBC3"
+        ],
+        [
+          99.5,
+          "sp|Q8XTT4|CLCL_RALN1"
+        ]
+      ]
+    }
+  },
+  "constraining_negatives": "manually reviewed (prefix) AND established function name (pattern)",
+  "threshold_window": [
+    111.5,
+    360.7
+  ],
+  "loo_scores": {
+    "tr|A0A6N4X0Y2|A0A6N4X0Y2_9FLAO": 580.2,
+    "tr|A0ABY5NX85|A0ABY5NX85_9ENTE": 360.7,
+    "tr|A0A369QFZ6|A0A369QFZ6_9BACT": 504.0,
+    "tr|A0ABQ2PCE4|A0ABQ2PCE4_9NEIS": 585.3,
+    "tr|A0A916K8S1|A0A916K8S1_9BACL": 538.3,
+    "sp|Q87WD2|ERIC_PSESM": 637.0,
+    "tr|A0ABZ3FCS2|A0ABZ3FCS2_9FIRM": 503.9,
+    "tr|A0A916J0H1|A0A916J0H1_9BURK": 619.7,
+    "tr|A0A6J5G5K3|A0A6J5G5K3_9BURK": 614.8,
+    "tr|A0ABQ3HER8|A0ABQ3HER8_9NEIS": 668.1,
+    "tr|A0A3P5Y7M1|A0A3P5Y7M1_STRCB": 390.4,
+    "tr|A0ABY6VA78|A0ABY6VA78_9ENTR": 619.1,
+    "tr|A0A5E4RIR5|A0A5E4RIR5_9BURK": 636.2,
+    "tr|A0A4Y3M3S6|A0A4Y3M3S6_9PROT": 489.7
+  },
+  "loo_min": 360.7,
+  "negative_max": 111.5,
+  "gathering_threshold": 236.1,
+  "rule": "midpoint",
+  "loo_mode": "realign",
+  "loo_mode_requested": "realign",
+  "margin_factor": 0.9,
+  "separation": "OK",
+  "loo_sensitivity_at_GA": 1.0,
+  "negative_filter": {
+    "confirmed_prefix": "sp|",
+    "confirmed_pattern": "H\\(\\+\\)/Cl\\(-\\) exchange transporter|Chloride channel protein ClcB|putative ion channel protein YfeO|Chloride channel protein EriC",
+    "criterion": "manually reviewed (prefix) AND established function name (pattern)",
+    "note": "This block was missing until v38, reported by an external reviewer (finding X2, carried over from the v29 pass). The 'constraining_negatives' field announced 'prefix sp|' alone, which was a FALSE LABEL: under that criterion negative_max would be 567.5 (sp|Q4VFY6|SYCA_RHITR, an alanine--tRNA ligase), not 111.5. The published 111.5 is sp|Q8D6J0|CLCA_VIBVU, an H(+)/Cl(-) ClcA transporter: the first negative satisfying BOTH conditions. The number was correct; its declaration was not. The resulting GA of 236.1 is unchanged.",
+    "unfiltered_negative_max": 670.5,
+    "unfiltered_negative_max_source": "tr|D8IWE6|D8IWE6_HERSS (TrEMBL)",
+    "unfiltered_swissprot_max": 567.5,
+    "unfiltered_swissprot_max_source": "sp|Q4VFY6|SYCA_RHITR (Alanine--tRNA ligase)",
+    "n_confirmed": 85,
+    "n_scored_at_E1000": 2632,
+    "fraction_kept": 0.032295,
+    "reporting_cutoff": "-E 1000 (build pass)"
+  },
+  "unfiltered_negative_max": 670.5,
+  "n_negatives_above_GA": 10,
+  "n_negatives_above_GA_note": "Derived from seeds/negatives_clc.faa with hmmsearch --max -E 1000 against the deposited model: 10 of 2632 reported negatives score at or above GA = 236.1, one of which is manually reviewed (sp|Q4VFY6|SYCA_RHITR, 567.5). The count is the same at -E 1e9. An earlier version of this field said the number was not derivable from the deposit, on the grounds that the record keeps only the ten best scores per source; the full negative set is deposited, so it is derivable.",
+  "separation_scope": "separation evaluated against CONFIRMED negatives only (manually reviewed AND established function name); unconfirmed sequences do score above GA, the unfiltered maximum being 670.5 (tr|D8IWE6|D8IWE6_HERSS)",
+  "n_negatives_above_GA_reviewed": 1,
+  "note": "The 'constraining_negatives' field announced 'prefix sp|' alone, which was a FALSE LABEL: under that criterion negative_max would be 567.5 (sp|Q4VFY6|SYCA_RHITR, an alanine--tRNA ligase), not 111.5. The published 111.5 is sp|Q8D6J0|CLCA_VIBVU, an H(+)/Cl(-) ClcA transporter: the first negative satisfying BOTH conditions (manually reviewed AND an established different function). The number was correct; its declaration was not. The resulting GA of 236.1 is unchanged."
+}

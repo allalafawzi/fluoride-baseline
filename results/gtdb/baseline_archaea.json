@@ -1,0 +1,501 @@
+{
+  "marker": "Fluc_CrcB",
+  "prefix": 1259,
+  "sample": {
+    "N": 1259,
+    "k": 164,
+    "n_families": 591,
+    "n_phyla": 21
+  },
+  "raw_proportion": {
+    "prop": 0.13026211278792693,
+    "lo": 0.11278855614993308,
+    "hi": 0.14998509330768342
+  },
+  "mean_by_phylum": {
+    "estimate": 0.15645364051084093,
+    "lo": 0.062397934950857395,
+    "hi": 0.2660620080809919,
+    "n_clades": 16,
+    "sd": 0.2190460609578691
+  },
+  "by_phylum": [
+    {
+      "phylum": "Methanobacteriota",
+      "N": 19,
+      "k": 12,
+      "prop": 0.631578947368421,
+      "lo": 0.41039533164803066,
+      "hi": 0.8085048725486492,
+      "median_size": 1694969.0
+    },
+    {
+      "phylum": "Halobacteriota",
+      "N": 132,
+      "k": 78,
+      "prop": 0.5909090909090909,
+      "lo": 0.5056179912579944,
+      "hi": 0.671058556596804,
+      "median_size": 2312594.5
+    },
+    {
+      "phylum": "Methanobacteriota_B",
+      "N": 14,
+      "k": 7,
+      "prop": 0.5,
+      "lo": 0.26799202452413634,
+      "hi": 0.7320079754758637,
+      "median_size": 1727272.0
+    },
+    {
+      "phylum": "Thermoplasmatota",
+      "N": 157,
+      "k": 33,
+      "prop": 0.21019108280254778,
+      "lo": 0.15376583581314338,
+      "hi": 0.2804596389666726,
+      "median_size": 1876710.0
+    },
+    {
+      "phylum": "Hydrothermarchaeota",
+      "N": 20,
+      "k": 4,
+      "prop": 0.2,
+      "lo": 0.08065766257979806,
+      "hi": 0.41601743225189364,
+      "median_size": 1451044.5
+    },
+    {
+      "phylum": "Asgardarchaeota",
+      "N": 55,
+      "k": 7,
+      "prop": 0.12727272727272726,
+      "lo": 0.06304210427364634,
+      "hi": 0.24017027655909076,
+      "median_size": 2935212.0
+    },
+    {
+      "phylum": "Altiarchaeota",
+      "N": 14,
+      "k": 1,
+      "prop": 0.07142857142857142,
+      "lo": 0.012722215247890939,
+      "hi": 0.31468704424151117,
+      "median_size": 1548033.5
+    },
+    {
+      "phylum": "Thermoproteota",
+      "N": 238,
+      "k": 15,
+      "prop": 0.06302521008403361,
+      "lo": 0.03856257930114918,
+      "hi": 0.10136983338655639,
+      "median_size": 1575198.5
+    },
+    {
+      "phylum": "EX4484-52",
+      "N": 18,
+      "k": 1,
+      "prop": 0.05555555555555555,
+      "lo": 0.009875190978303097,
+      "hi": 0.25757300781872594,
+      "median_size": 1042668.0
+    },
+    {
+      "phylum": "Iainarchaeota",
+      "N": 53,
+      "k": 1,
+      "prop": 0.018867924528301886,
+      "lo": 0.0033384533882637665,
+      "hi": 0.09942912052501235,
+      "median_size": 1025266.0
+    },
+    {
+      "phylum": "Aenigmatarchaeota",
+      "N": 77,
+      "k": 1,
+      "prop": 0.012987012987012988,
+      "lo": 0.0022962172971240508,
+      "hi": 0.06996198914680525,
+      "median_size": 751345.0
+    },
+    {
+      "phylum": "Micrarchaeota",
+      "N": 85,
+      "k": 1,
+      "prop": 0.011764705882352941,
+      "lo": 0.002079787134664092,
+      "hi": 0.06367170882493911,
+      "median_size": 1008700.0
+    },
+    {
+      "phylum": "Nanobdellota",
+      "N": 310,
+      "k": 3,
+      "prop": 0.00967741935483871,
+      "lo": 0.0032965484613499893,
+      "hi": 0.02806151002357698,
+      "median_size": 1000279.0
+    },
+    {
+      "phylum": "B1Sed10-29",
+      "N": 19,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.16817922405261626,
+      "median_size": 749914.0
+    },
+    {
+      "phylum": "Hadarchaeota",
+      "N": 9,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.2991450484195441,
+      "median_size": 1206154.0
+    },
+    {
+      "phylum": "Huberarchaeota",
+      "N": 1,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.7934506856227626,
+      "median_size": 453293.0
+    },
+    {
+      "phylum": "JACRDV01",
+      "N": 1,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.7934506856227626,
+      "median_size": 1544231.0
+    },
+    {
+      "phylum": "Korarchaeota",
+      "N": 13,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.22809537235419838,
+      "median_size": 1739738.0
+    },
+    {
+      "phylum": "Nanohalarchaeota",
+      "N": 11,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.2588329669680317,
+      "median_size": 948638.0
+    },
+    {
+      "phylum": "SpSt-1190",
+      "N": 6,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 2.7755575615628914e-17,
+      "hi": 0.3903342879021653,
+      "median_size": 864003.5
+    },
+    {
+      "phylum": "Undinarchaeota",
+      "N": 7,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 5.551115123125783e-17,
+      "hi": 0.35433043506668743,
+      "median_size": 733777.0
+    }
+  ],
+  "threshold_control": null,
+  "by_size": [
+    {
+      "min_mb": 0,
+      "max_mb": 1.0,
+      "N": 363,
+      "k": 3,
+      "prop": 0.008264462809917356,
+      "lo": 0.0028145648456173473,
+      "hi": 0.024012988540338585
+    },
+    {
+      "min_mb": 1.0,
+      "max_mb": 1.5,
+      "N": 388,
+      "k": 20,
+      "prop": 0.05154639175257732,
+      "lo": 0.033613033828452446,
+      "hi": 0.07827267360189859
+    },
+    {
+      "min_mb": 1.5,
+      "max_mb": 2.5,
+      "N": 366,
+      "k": 71,
+      "prop": 0.19398907103825136,
+      "lo": 0.15674291117028638,
+      "hi": 0.23759216225748936
+    },
+    {
+      "min_mb": 2.5,
+      "max_mb": 3.5,
+      "N": 93,
+      "k": 42,
+      "prop": 0.45161290322580644,
+      "lo": 0.35439761353554855,
+      "hi": 0.5526669834913936
+    },
+    {
+      "min_mb": 3.5,
+      "max_mb": 99,
+      "N": 49,
+      "k": 28,
+      "prop": 0.5714285714285714,
+      "lo": 0.4327049309001736,
+      "hi": 0.699766809211184
+    }
+  ],
+  "size_phylum_model": {
+    "chi2_size": 233.84188941164507,
+    "df_size": 1,
+    "reference_level": {
+      "phylum": "Methanobacteriota",
+      "absorbed_rare_phyla": [
+        "Hadarchaeota",
+        "Huberarchaeota",
+        "JACRDV01",
+        "SpSt-1190",
+        "Undinarchaeota"
+      ],
+      "n_absorbed_genomes": 24,
+      "k_absorbed_positives": 0
+    },
+    "n_phyla_completely_separated": 3,
+    "chi2_phylum_after_size": 134.13139723075665,
+    "df_phylum": 15,
+    "df_phylum_effective": 12,
+    "slope_log10_size": 6.950592301412691
+  },
+  "size_matched": [
+    {
+      "phylum": "Methanobacteriota",
+      "N": 16,
+      "k": 10,
+      "prop": 0.625,
+      "lo": 0.38641040545502714,
+      "hi": 0.8151876744113636
+    },
+    {
+      "phylum": "Methanobacteriota_B",
+      "N": 12,
+      "k": 7,
+      "prop": 0.5833333333333334,
+      "lo": 0.31951131254954973,
+      "hi": 0.8067396863412435
+    },
+    {
+      "phylum": "Halobacteriota",
+      "N": 66,
+      "k": 27,
+      "prop": 0.4090909090909091,
+      "lo": 0.2986741800934037,
+      "hi": 0.5295081029999674
+    },
+    {
+      "phylum": "Hydrothermarchaeota",
+      "N": 18,
+      "k": 4,
+      "prop": 0.2222222222222222,
+      "lo": 0.09000928108601694,
+      "hi": 0.45214584316212625
+    },
+    {
+      "phylum": "Thermoplasmatota",
+      "N": 123,
+      "k": 23,
+      "prop": 0.18699186991869918,
+      "lo": 0.12795837432731733,
+      "hi": 0.2649845899376325
+    },
+    {
+      "phylum": "Asgardarchaeota",
+      "N": 23,
+      "k": 3,
+      "prop": 0.13043478260869565,
+      "lo": 0.04537659093631238,
+      "hi": 0.32127482270095964
+    },
+    {
+      "phylum": "Altiarchaeota",
+      "N": 10,
+      "k": 1,
+      "prop": 0.1,
+      "lo": 0.017876213095072896,
+      "hi": 0.4041500267952385
+    },
+    {
+      "phylum": "EX4484-52",
+      "N": 10,
+      "k": 1,
+      "prop": 0.1,
+      "lo": 0.017876213095072896,
+      "hi": 0.4041500267952385
+    },
+    {
+      "phylum": "Thermoproteota",
+      "N": 205,
+      "k": 11,
+      "prop": 0.05365853658536585,
+      "lo": 0.030222961388213593,
+      "hi": 0.09351424561377795
+    },
+    {
+      "phylum": "Micrarchaeota",
+      "N": 44,
+      "k": 1,
+      "prop": 0.022727272727272728,
+      "lo": 0.004023252060053224,
+      "hi": 0.11807709698213287
+    },
+    {
+      "phylum": "Nanobdellota",
+      "N": 155,
+      "k": 3,
+      "prop": 0.01935483870967742,
+      "lo": 0.0066038767216294765,
+      "hi": 0.0553538696612183
+    },
+    {
+      "phylum": "Iainarchaeota",
+      "N": 30,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.11351339317396876
+    },
+    {
+      "phylum": "Aenigmatarchaeota",
+      "N": 13,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 0.0,
+      "hi": 0.22809537235419838
+    },
+    {
+      "phylum": "Korarchaeota",
+      "N": 12,
+      "k": 0,
+      "prop": 0.0,
+      "lo": 2.7755575615628914e-17,
+      "hi": 0.24249400665524085
+    }
+  ],
+  "provenance_control": {
+    "global_": [
+      {
+        "source": "downloaded",
+        "N": 887,
+        "k": 124,
+        "prop": 0.13979706877113868,
+        "lo": 0.11852561200668621,
+        "hi": 0.1641750372806569
+      },
+      {
+        "source": "predicted",
+        "N": 372,
+        "k": 40,
+        "prop": 0.10752688172043011,
+        "lo": 0.0799639086716149,
+        "hi": 0.14311275531263462
+      }
+    ],
+    "by_phylum": [
+      {
+        "phylum": "Aenigmatarchaeota",
+        "n_downloaded": 60,
+        "p_downloaded": 0.016666666666666666,
+        "n_predicted": 17,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "Asgardarchaeota",
+        "n_downloaded": 20,
+        "p_downloaded": 0.1,
+        "n_predicted": 35,
+        "p_predicted": 0.14285714285714285
+      },
+      {
+        "phylum": "B1Sed10-29",
+        "n_downloaded": 9,
+        "p_downloaded": 0.0,
+        "n_predicted": 10,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "EX4484-52",
+        "n_downloaded": 10,
+        "p_downloaded": 0.1,
+        "n_predicted": 8,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "Halobacteriota",
+        "n_downloaded": 107,
+        "p_downloaded": 0.6355140186915887,
+        "n_predicted": 25,
+        "p_predicted": 0.4
+      },
+      {
+        "phylum": "Hydrothermarchaeota",
+        "n_downloaded": 11,
+        "p_downloaded": 0.18181818181818182,
+        "n_predicted": 9,
+        "p_predicted": 0.2222222222222222
+      },
+      {
+        "phylum": "Iainarchaeota",
+        "n_downloaded": 41,
+        "p_downloaded": 0.024390243902439025,
+        "n_predicted": 12,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "Micrarchaeota",
+        "n_downloaded": 61,
+        "p_downloaded": 0.01639344262295082,
+        "n_predicted": 24,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "Nanobdellota",
+        "n_downloaded": 243,
+        "p_downloaded": 0.012345679012345678,
+        "n_predicted": 67,
+        "p_predicted": 0.0
+      },
+      {
+        "phylum": "Thermoplasmatota",
+        "n_downloaded": 97,
+        "p_downloaded": 0.14432989690721648,
+        "n_predicted": 60,
+        "p_predicted": 0.31666666666666665
+      },
+      {
+        "phylum": "Thermoproteota",
+        "n_downloaded": 167,
+        "p_downloaded": 0.08383233532934131,
+        "n_predicted": 71,
+        "p_predicted": 0.014084507042253521
+      }
+    ]
+  },
+  "measured_icc": {
+    "family": 0.7302156084370351,
+    "phylum": 0.448740418491228,
+    "n_genomes": 2408,
+    "n_families_with_2plus": 375
+  }
+}

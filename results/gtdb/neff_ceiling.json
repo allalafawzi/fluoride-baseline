@@ -1,0 +1,138 @@
+{
+  "icc_total": 0.15,
+  "icc_split": 0.5,
+  "cap": 3,
+  "replicates": 200,
+  "seed": 20261001,
+  "draws": [
+    1000,
+    4000,
+    20000,
+    40000
+  ],
+  "archaea_filters": {
+    "min_completeness": 50.0,
+    "max_contamination": 5.0
+  },
+  "taxonomies": [
+    {
+      "key": "model",
+      "source": "MODEL (4000 families / 1500 orders / 113000 spp.)",
+      "n_families": 4000,
+      "n_orders": 1224,
+      "n_representatives": 113073,
+      "capacity_at_cap": 12000,
+      "rows": [
+        {
+          "n_drawn": 1000,
+          "proportional": {
+            "median": 320,
+            "low": 259,
+            "high": 387
+          },
+          "balanced": {
+            "n_eff": 873,
+            "deff": 1.145,
+            "m_fam": 1.0
+          }
+        },
+        {
+          "n_drawn": 4000,
+          "proportional": {
+            "median": 423,
+            "low": 369,
+            "high": 484
+          },
+          "balanced": {
+            "n_eff": 2410,
+            "deff": 1.66,
+            "m_fam": 1.0
+          }
+        },
+        {
+          "n_drawn": 20000,
+          "proportional": {
+            "median": 461,
+            "low": 441,
+            "high": 494
+          },
+          "balanced": {
+            "verdict": "capacity exceeded",
+            "capacity": 12000
+          }
+        },
+        {
+          "n_drawn": 40000,
+          "proportional": {
+            "median": 466,
+            "low": 447,
+            "high": 481
+          },
+          "balanced": {
+            "verdict": "capacity exceeded",
+            "capacity": 12000
+          }
+        }
+      ]
+    },
+    {
+      "key": "archaea",
+      "source": "ARCHAEA ar53_metadata_r226.tsv.gz (completeness >= 50 %, contamination <= 5 %)",
+      "n_families": 591,
+      "n_orders": 169,
+      "n_representatives": 6657,
+      "capacity_at_cap": 1259,
+      "rows": [
+        {
+          "n_drawn": 1000,
+          "proportional": {
+            "median": 199,
+            "low": 179,
+            "high": 220
+          },
+          "balanced": {
+            "n_eff": 260,
+            "deff": 3.848,
+            "m_fam": 1.89
+          }
+        },
+        {
+          "n_drawn": 4000,
+          "proportional": {
+            "median": 234,
+            "low": 221,
+            "high": 248
+          },
+          "balanced": {
+            "verdict": "capacity exceeded",
+            "capacity": 1259
+          }
+        },
+        {
+          "n_drawn": 20000,
+          "proportional": {
+            "median": 245,
+            "low": 239,
+            "high": 255
+          },
+          "balanced": {
+            "verdict": "capacity exceeded",
+            "capacity": 1259
+          }
+        },
+        {
+          "n_drawn": 40000,
+          "proportional": {
+            "median": 247,
+            "low": 243,
+            "high": 252
+          },
+          "balanced": {
+            "verdict": "capacity exceeded",
+            "capacity": 1259
+          }
+        }
+      ]
+    }
+  ]
+}

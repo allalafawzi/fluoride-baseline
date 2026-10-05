@@ -1,0 +1,32 @@
+# Experimentally characterised C-F bond enzymes, for a hard test set.
+#
+# WHY THIS FILE EXISTS
+# The 355-sequence held-out set used to report recall is drawn from UniProt
+# entries already labelled "fluoroacetate dehalogenase". Those labels are
+# largely produced by automatic pipelines that are themselves profile-HMM
+# based (UniRule, InterPro, Pfam). Validating a profile HMM against
+# HMM-derived labels is close to circular. This file is the answer: a small
+# set of enzymes whose activity was measured at the bench, with the reference
+# that measured it.
+#
+# expected = "positive": experimentally shown to hydrolyse fluoroacetate.
+# expected = "negative": experimentally shown NOT to act on fluoroacetate,
+#                        whatever its public annotation says.
+#
+# in_seed = "yes" means the sequence is one of the model's anchors and cannot
+# serve as a test; it is listed so the set is complete and auditable.
+#
+accession	name	organism	expected	in_seed	evidence
+Q6NAM1	RPA1163	Rhodopseudomonas palustris CGA009	positive	yes	Chan et al. 2010 Biochemistry 49:9538; PDB 5K3C. UniProt PE 1.
+Q1JU72	FAc-DEX FA1	Burkholderia sp. FA1	positive	yes	Kurihara et al. 2003 J Biochem 133:465; Jitsumori et al. 2009 J Bacteriol 191:2630. UniProt PE 1.
+Q01398	DehH1 (H-1)	Moraxella sp. B	positive	yes	Kawasaki et al. 1992 Biosci Biotechnol Biochem 56:1642. UniProt PE 1.
+Q479B8	Daro3835	Dechloromonas aromatica RCB	positive	no	Khusnutdinova et al. 2023 FEBS J, doi 10.1111/febs.16903; PDB 8SDC / 8SDD. UniProt PE 1 -- and annotated ONLY as "Alpha/beta hydrolase fold protein", with NO EC number.
+Q01399	DehH2 (H-2)	Moraxella sp. B	negative	no	Kawasaki et al. 1992. UniProt carries EC 3.8.1.3, but the entry itself states the enzyme acts on chloro-, bromo- and iodoacetate, NOT on fluoroacetate. HAD superfamily (PF00702), not alpha/beta hydrolase.
+A0A4Z0BVY8	LGL-1	Ramlibacter rhizophilus	positive	no	Ji et al. 2026, Chem Sci 17:13816, doi 10.1039/d6sc02671k. Reclassified defluorinase; 2.7-fold greater defluorination activity than Q6NAM1. Public annotation before the assay: GO:0047372, monoacylglycerol lipase activity.
+A0A4V6IMR0	LGL-2	Methylobacterium sp.	positive	no	Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase, assayed on 2-fluoro-2-phenylacetate. UniProt entry WITHDRAWN between release 2026_01 and September 2026; sequence recovered from the UniSave archive and deposited with this work.
+A0ABF7PGA4	LGL-3	see Ji et al. 2026	positive	no	Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Had NO GO annotation at all before the assay.
+A0A840N899	LGL-4	see Ji et al. 2026	positive	no	Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Public annotation before the assay: GO:0016787, generic hydrolase activity.
+K8NY92	LGL-5	see Ji et al. 2026	positive	no	Ji et al. 2026, Chem Sci 17:13816. Reclassified defluorinase. Public annotation before the assay: GO:0016787, generic hydrolase activity.
+
+A0ACD6B9A3	NOS0089 (Alr0039)	Nostoc sp. PCC 7120	positive	no	Khusnutdinova et al. 2023, FEBS J, doi 10.1111/febs.16903: NOS0089 = PDB 3QYJ, and the screens 'confirmed the presence of FA defluorination activity in all purified proteins'; DFA activity 60-75 % of its FA activity. UniProt annotation before that work: 'Alr0039 protein', PE 4, no EC number. PROMOTED from candidate to positive on the strength of this paper -- the PDB deposition alone said 'to be published'.
+Q0SK70	RJO0230	Rhodococcus jostii RHA1	out_of_scope	no	Khusnutdinova et al. 2023: HAD-superfamily hydrolase WITH measured fluoroacetate defluorination activity. A genuine defluorinase of a DIFFERENT FOLD (HAD, PF00702, not alpha/beta hydrolase PF00561). An ABH equivalog model must NOT detect it: doing so would mean the model had left its family. Scope test, not a false negative.
